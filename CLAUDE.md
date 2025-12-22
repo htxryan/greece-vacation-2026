@@ -41,4 +41,10 @@ We want to share ALL our research and findings with the whole family (contributi
 
 To do this, we've set up a GitHub Pages site for this repo: `https://htxryan.github.io/greece-vacation-2026`.
 
-Critical information on how the Jekyll site is organized and deployed can be found here: @.claude/context/jekyll.md
+### Jekyll
+
+@.claude/context/jekyll.md
+
+### GitHub Pages
+
+@.claude/context/github-pages.md
