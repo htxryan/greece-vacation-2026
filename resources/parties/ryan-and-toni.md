@@ -1,5 +1,6 @@
 ---
 title: Ryan and Toni
+layout: default
 parent: Travel Parties
 nav_order: 3
 ---

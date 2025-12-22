@@ -1,5 +1,6 @@
 ---
 title: Donna and Travis
+layout: default
 parent: Travel Parties
 nav_order: 2
 ---
