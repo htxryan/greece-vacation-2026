@@ -1,7 +1,6 @@
 ---
 title: [Location Name]
 parent: Locations
-grand_parent: Research
 ---
 
 # [Location Name]

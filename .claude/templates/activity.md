@@ -1,7 +1,6 @@
 ---
 title: [Activity Name]
 parent: [Location Name]
-grand_parent: Locations
 ---
 
 # [Activity Name]

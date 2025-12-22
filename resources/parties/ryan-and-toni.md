@@ -1,7 +1,6 @@
 ---
 title: Ryan and Toni
 parent: Travel Parties
-grand_parent: Resources
 nav_order: 3
 ---
 
