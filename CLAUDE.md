@@ -40,3 +40,5 @@ Our primary output (after research) will be suggested full itineraries for the t
 We want to share ALL our research and findings with the whole family (contributing research, suggested itineraries, and any other notes).
 
 To do this, we've set up a GitHub Pages site for this repo: `https://htxryan.github.io/greece-vacation-2026`.
+
+Critical information on how the Jekyll site is organized and deployed can be found here: @.claude/context/jekyll.md
