@@ -27,6 +27,10 @@ Before we decide on a final itinerary, we want to organize extensive research on
 - ./research/locations/<location-name>/activities/<activity-2-name>.md (using template `./.claude/templates/activity.md`)
 - ...
 
+### Notes
+
+Research notes or saved links that don't fit into a "location" or "activity" page can go in this folder. Ensure they are organized logically.
+
 ## Itineraries
 
 Our primary output (after research) will be suggested full itineraries for the trip. These should be stored in `./itineraries/<itinerary-name>.md`.

@@ -1,1 +1,3 @@
-# greece-vacation-2026
+# Henderson Greece Vacation 2026
+
+Research repository for the Henderson vacation to Greece in 2026.
