@@ -11,9 +11,9 @@ Family vacation planning for Greece, October 2026 (12 days + 2 travel days).
 ## Overview
 
 Three couples are traveling together:
-- [Andy and Kathy]({% link resources/parties/andy-and-kathy.md %})
-- [Donna and Travis]({% link resources/parties/donna-and-travis.md %})
-- [Ryan and Toni]({% link resources/parties/ryan-and-toni.md %})
+- [Andy and Kathy](resources/parties/andy-and-kathy.html)
+- [Donna and Travis](resources/parties/donna-and-travis.html)
+- [Ryan and Toni](resources/parties/ryan-and-toni.html)
 
 ## The Plan
 

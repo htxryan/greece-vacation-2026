@@ -8,5 +8,5 @@ has_children: true
 
 Information about our travel party and preferences.
 
-- **[Global Preferences]({% link resources/global-preferences.md %})** - What the whole group enjoys
-- **[Travel Parties]({% link resources/parties/index.md %})** - Individual couple information
+- **[Global Preferences](global-preferences.html)** - What the whole group enjoys
+- **[Travel Parties](parties/)** - Individual couple information
