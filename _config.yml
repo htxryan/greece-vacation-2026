@@ -1,0 +1,74 @@
+title: Greece 2026
+description: Family vacation planning for Greece, October 2026
+remote_theme: just-the-docs/just-the-docs
+
+# Site URL (update with your actual GitHub Pages URL)
+url: "https://htxryan.github.io"
+baseurl: "/greece-vacation-2026"
+
+# Color scheme (light, dark, or custom)
+color_scheme: light
+
+# Enable search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+
+# Aux links (top right navigation)
+aux_links:
+  "GitHub Repo":
+    - "https://github.com/htxryan/greece-vacation-2026"
+
+# Footer content
+footer_content: "Greece 2026 - Family Vacation Planning"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Enable heading anchors
+heading_anchors: true
+
+# Exclude files from Jekyll processing
+exclude:
+  - .claude/
+  - node_modules/
+  - vendor/
+  - "*.gemspec"
+  - Gemfile.lock
+  - LICENSE
+  - robots.txt
+  - CLAUDE.md
+  - README.md
+
+# Collections for organizing content
+collections:
+  research:
+    output: true
+    permalink: /research/:path/
+
+# Default front matter
+defaults:
+  - scope:
+      path: "resources"
+    values:
+      nav_exclude: false
+      parent: Resources
+  - scope:
+      path: "research"
+    values:
+      nav_exclude: false
+      parent: Research
+  - scope:
+      path: "planning"
+    values:
+      nav_exclude: false
+      parent: Planning
+  - scope:
+      path: "itineraries"
+    values:
+      nav_exclude: false
+      parent: Itineraries

@@ -1,3 +1,9 @@
+---
+title: [Location Name]
+parent: Locations
+grand_parent: Research
+---
+
 # [Location Name]
 
 [Overview of location]
@@ -17,6 +23,10 @@
 ## Details
 
 [Any other relevant details about the location, like suggested itineraries, tips, other info]
+
+## Photos
+
+[Rendered downloaded photos of the location; photos should be stored in a "photos" folder inside the location's folder; photos should be visible on the location's page in the GitHub Pages Jekyll site]
 
 ## Logistics
 

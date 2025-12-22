@@ -1,3 +1,10 @@
+---
+title: Andy and Kathy
+parent: Travel Parties
+grand_parent: Resources
+nav_order: 1
+---
+
 # Andy and Kathy
 
 - Andy Henderson, 70

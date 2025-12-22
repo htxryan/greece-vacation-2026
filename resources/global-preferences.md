@@ -1,3 +1,9 @@
+---
+title: Global Preferences
+parent: Resources
+nav_order: 1
+---
+
 # Global Preferences
 
 This group likes to do some of the same things:
