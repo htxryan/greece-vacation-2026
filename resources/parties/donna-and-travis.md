@@ -1,7 +1,7 @@
 ---
 title: Donna and Travis
-parent: Resources
-nav_order: 4
+parent: Travel Parties
+nav_order: 2
 ---
 
 # Donna and Travis
