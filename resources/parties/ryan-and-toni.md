@@ -1,7 +1,7 @@
 ---
 title: Ryan and Toni
-parent: Travel Parties
-nav_order: 3
+parent: Resources
+nav_order: 5
 ---
 
 # Ryan and Toni
