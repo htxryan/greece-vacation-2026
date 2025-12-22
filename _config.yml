@@ -49,26 +49,3 @@ collections:
   research:
     output: true
     permalink: /research/:path/
-
-# Default front matter
-defaults:
-  - scope:
-      path: "resources"
-    values:
-      nav_exclude: false
-      parent: Resources
-  - scope:
-      path: "research"
-    values:
-      nav_exclude: false
-      parent: Research
-  - scope:
-      path: "planning"
-    values:
-      nav_exclude: false
-      parent: Planning
-  - scope:
-      path: "itineraries"
-    values:
-      nav_exclude: false
-      parent: Itineraries
