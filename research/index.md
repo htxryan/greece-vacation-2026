@@ -7,16 +7,3 @@ has_children: true
 # Research
 
 Destination and activity research for our Greece trip.
-
-## Structure
-
-Research is organized by location:
-
-```
-research/
-└── locations/
-    └── [location-name]/
-        ├── location-overview.md
-        └── activities/
-            └── [activity-name].md
-```
