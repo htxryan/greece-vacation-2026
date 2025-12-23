@@ -16,9 +16,9 @@ October is considered one of the best times to visit Athens. Daytime temperature
 
 - **Andy & Kathy**: Athens is the departure point for excellent Saronic Islands day cruises to Hydra, Poros, and Aegina—perfect for cruise lovers. The city's pedestrian-friendly historic center offers easy walking and plenty of café stops.
 
-- **Ryan & Toni**: Athens has Greece's finest concentration of Michelin-starred restaurants, including Delta (2 stars) and eight 1-star establishments. The city offers incredible photography opportunities—from the illuminated Acropolis at night to the island-like streets of Anafiotika. Food tours through the Central Market are outstanding.
+- **Ryan & Toni**: Athens has Greece's finest concentration of Michelin-starred restaurants, including Delta (2 stars) and eight 1-star establishments. The city offers incredible photography opportunities—from the illuminated Acropolis at night to the island-like streets of Anafiotika. Food tours through the Central Market are outstanding. Note: Toni has visited Athens before, but all the other travelers will be experiencing it for the first time. Ryan will enjoy the museums (Acropolis Museum, National Archaeological Museum) while Toni prefers to limit museum time—a good balance is the Acropolis Museum which combines stunning views with concise historical context.
 
-- **Donna & Travis**: Historic sites galore without exhausting hikes, vibrant nightlife in Psyrri and Gazi, and excellent street food scene.
+- **Donna & Travis**: Historic sites galore without exhausting hikes, vibrant nightlife in Psyrri and Gazi, and excellent street food scene. Note: For Donna's Spanish-speaking family members (including two women in their 80s), Athens offers Spanish-language tours at major sites and a flexible, low-key exploration style—wandering Plaka's cafés and people-watching at Monastiraki Square fits well with their preference for avoiding rigid schedules.
 
 ## Reasons to Choose
 
@@ -37,7 +37,7 @@ October is considered one of the best times to visit Athens. Daytime temperature
 - **National Archaeological Museum** - Comprehensive overview of Greek civilization
 - **Food Tours** - Explore the Central Market (Varvakios Agora) and taste traditional specialties
 - **Saronic Islands Day Cruise** - Full-day cruise to Hydra, Poros, and Aegina from Piraeus
-- **Plaka & Monastiraki** - Pedestrian neighborhoods for shopping, dining, and people-watching
+- **Plaka & Monastiraki** - Pedestrian neighborhoods for unique shopping (local crafts, olive oil products, handmade sandals—not luxury boutiques), dining, and people-watching
 - **Mount Lycabettus Sunset** - Best panoramic views of Athens (funicular available)
 - **Fine Dining Experience** - Michelin-starred restaurants like The Zillers with Acropolis views
 

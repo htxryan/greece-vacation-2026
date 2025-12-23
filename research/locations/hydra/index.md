@@ -14,9 +14,9 @@ Hydra is a charming, car-free Greek island in the Saronic Gulf, just 1.5-2 hours
 
 - **Andy and Kathy**: The relaxed atmosphere and easy ferry access from Athens make it cruise-like without the hassle. The harbor cafés are perfect for people-watching, and getting around by foot or water taxi eliminates any driving stress.
 
-- **Ryan and Toni**: Exceptional photography opportunities at every turn—the harbor at sunrise, donkeys carrying goods through narrow lanes, whitewashed buildings against blue water. Several upscale dining options (Omilos, Téchnē, Mikra Anglia) offer the fine dining experience they enjoy, while traditional tavernas like Xeri Elia (Douskos) provide authentic local favorites.
+- **Ryan and Toni**: Exceptional photography opportunities at every turn—the harbor at sunrise, donkeys carrying goods through narrow lanes, whitewashed buildings against blue water. Several upscale dining options (Omilos, Téchnē, Mikra Anglia) offer the fine dining experience they enjoy, while traditional tavernas like Xeri Elia (Douskos) provide authentic local favorites. The swimming spots like Spilia offer clear blue water typical of the Saronic Gulf. **This is a new destination for Toni** (not one of her previous Greece visits), offering fresh exploration. Note: The island has minimal museums, which works well for Toni's preference—instead, the experience is about atmosphere, dining, and photography.
 
-- **Donna and Travis**: The bohemian vibe, swimming spots, and Leonard Cohen heritage add cultural depth. Easy day trip from Athens if time is limited.
+- **Donna and Travis**: The bohemian vibe, swimming spots, and Leonard Cohen heritage add cultural depth. Easy day trip from Athens if time is limited. **Note for Donna's family**: While the car-free atmosphere is peaceful, the island does require walking—some paths are uneven or hilly. For family members with mobility concerns (the two women in their 80s), the harbor area is mostly flat and offers the best people-watching, dining, and atmosphere without requiring extensive walking. Water taxis can help reach beaches without climbing. The lack of schedules and leisurely café culture fits their preference for flexibility.
 
 ## Reasons to Choose
 

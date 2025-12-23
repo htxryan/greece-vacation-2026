@@ -12,9 +12,11 @@ Sifnos is famous for being the birthplace of legendary Greek chef Nikolaos Tsele
 
 ## Who This is For
 
-**Ryan and Toni** would love Sifnos for its exceptional dining scene. The island offers both fine dining experiences (like Omega 3 and Cantina) and authentic local tavernas. Photography opportunities abound, particularly at the iconic Church of the Seven Martyrs in Kastro, the medieval village of Kastro itself, and the picturesque harbor of Vathi.
+**Ryan and Toni** would love Sifnos for its exceptional dining scene. The island offers both fine dining experiences (like Omega 3 and Cantina) and authentic local tavernas. Photography opportunities abound, particularly at the iconic Church of the Seven Martyrs in Kastro, the medieval village of Kastro itself, and the picturesque harbor of Vathi. The calm beaches (especially Vathi bay) offer clear blue water with good visibility. **Special note for Toni**: Sifnos has a similar low-key, peaceful atmosphere to what she loved about Zakynthos—the locals are welcoming, the pace is unhurried, and there's an almost meditative quality to the island. This is a new destination for her, offering fresh exploration while capturing the "yogi vibes" she appreciated before.
 
 **Andy and Kathy** would appreciate the relaxed pace, beautiful views, good food, and charming villages perfect for people-watching. The island offers gentle walks rather than strenuous hikes, and the villages like Apollonia and Artemonas are ideal for relaxed exploration.
+
+**Donna and Travis**: The island's laid-back atmosphere works well for Donna's family (including two women in their 80s). Activities don't require strict scheduling—you can wander villages, stop at cafés, and dine at your own pace. The local pottery workshops and cooking classes offer engaging but low-intensity experiences.
 
 **Note:** Sifnos works well as an independent destination after the group portion of the trip for couples seeking a quieter Greek island experience.
 
@@ -25,7 +27,7 @@ Sifnos is famous for being the birthplace of legendary Greek chef Nikolaos Tsele
 - **October Weather**: Perfect conditions in October with temperatures around 19-23°C (66-73°F), warm sea (22°C/72°F), and thinner crowds with lower prices
 - **Photogenic Villages**: Kastro's medieval streets and the iconic Church of Seven Martyrs are world-famous photo spots
 - **Relaxed Exploration**: Over 100km of well-marked hiking trails connecting villages, monasteries, and beaches - but with easy, low-intensity options
-- **Unique Shopping**: Traditional pottery workshops and artisan ceramics make for distinctive souvenirs
+- **Unique Shopping**: Traditional pottery workshops and artisan ceramics make for distinctive souvenirs—handcrafted local goods rather than luxury boutiques
 - **Excellent Beaches**: Options from beach clubs (Platis Gialos) to serene bays (Vathi) to remote escapes (Cheronissos)
 
 ## Top Activities

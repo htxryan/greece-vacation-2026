@@ -5,7 +5,11 @@ parent: Notes
 
 # Top 20 Location Options for Greece October 2026
 
-This research identifies the best cities and islands to consider for our 12-day family vacation in October 2026. Locations are evaluated based on: October weather, accessibility for older travelers (Andy & Kathy, 70/68), fine dining and photography opportunities (Ryan & Toni), food tours and culinary experiences, history museums, relaxation, and people-watching.
+This research identifies the best cities and islands to consider for our 12-day family vacation in October 2026. Locations are evaluated based on: October weather, accessibility for older travelers (Andy & Kathy, 70/68, plus Donna's family including two women in their 80s), fine dining and photography opportunities (Ryan & Toni), clear blue water visibility, food tours and culinary experiences, history museums (in moderation—Ryan enjoys them, Toni prefers limited), relaxation, people-watching, and unique artisan shopping (not luxury boutiques).
+
+**Important travel party notes:**
+- **Toni has visited Greece before**: Zakynthos (her favorite—loved the low-key/yogi vibes and blue water), Delphi, Santorini, and Athens. She'd revisit these with the group since others haven't been, but also wants to see something new.
+- **Donna's family**: Includes Spanish-speaking members and two women in their 80s who prefer low-key activities and flexible schedules (no rigid itineraries).
 
 ## Key Findings
 
@@ -24,6 +28,8 @@ This research identifies the best cities and islands to consider for our 12-day 
 ### Why It's Ideal
 
 Athens is where you'll fly in and out, making it a natural anchor point. October brings mild weather (24°C highs), fewer tourists at major sites, and the full culinary scene remains active.
+
+**Note for Toni**: She has visited Athens before but others haven't—a great opportunity to share favorites while discovering new spots. Ryan can enjoy the museums (Acropolis Museum, National Archaeological) while Toni can explore Plaka's shops and cafés. Spanish-language tours are available for Donna's family at major sites.
 
 ### Highlights
 
@@ -48,11 +54,13 @@ Average high: 24°C (75°F), low: 14°C (57°F)
 
 ## 2. Santorini
 
-**Type**: Cycladic Island | **Best For**: Photography, iconic views, romantic atmosphere
+**Type**: Cycladic Island | **Best For**: Photography, iconic views, romantic atmosphere, clear caldera waters
 
 ### Why It's Ideal
 
 Santorini's famous caldera views, blue-domed churches, and dramatic sunsets are less crowded in October. The island is expanding fine dining options (joining Michelin Guide in 2026).
+
+**Note for Toni**: She has visited Santorini before but wouldn't mind returning since others haven't been to Greece. The crystal-clear caldera waters offer excellent visibility. For Donna's family: some areas have steep paths—stick to Fira's main walkways and use taxis for easier access.
 
 ### Highlights
 
@@ -305,11 +313,13 @@ Naoussa harbor at sunset/blue hour—charming fishing boats, waterfront restaura
 
 ## 10. Sifnos
 
-**Type**: Cycladic Island | **Best For**: Culinary heritage, pottery, relaxation, food lovers
+**Type**: Cycladic Island | **Best For**: Culinary heritage, pottery, relaxation, food lovers, low-key vibes
 
 ### Why It's Ideal
 
 Sifnos is the birthplace of Greece's most famous chef and has exceptional culinary traditions. The island is known for pottery workshops, gentle hiking trails, and a peaceful atmosphere—perfect for food lovers seeking authenticity over glamour.
+
+**Special Note for Toni**: Sifnos has similar low-key, peaceful vibes to what she loved about Zakynthos—welcoming locals, unhurried pace, and an almost meditative quality. This is a new destination for her, offering fresh exploration. For Donna's family: the laid-back atmosphere works well with their preference for flexible schedules.
 
 ### Highlights
 
@@ -493,6 +503,8 @@ Average: 20-26°C (68-79°F), warmer than many islands; sea temperature: 22°C (
 
 Once considered the center of the world ("Navel of the Earth"), Delphi was home to the famous Oracle and Temple of Apollo. The archaeological site and excellent museum make it one of Greece's most important historical destinations.
 
+**Note for Toni**: She has visited Delphi before, but may enjoy sharing this experience with the group since others haven't been. The museum is an option for Ryan (who enjoys museums) while she might prefer the scenic views and café stops in nearby Arachova.
+
 ### Highlights
 
 - **Ancient Site**: Temple of Apollo, ancient theater, athletic stadium
@@ -614,11 +626,13 @@ Pleasant autumn weather, perfect for temple visits and harbor strolling
 
 ## 18. Zakynthos
 
-**Type**: Ionian Island | **Best For**: Iconic views, boat tours, beaches
+**Type**: Ionian Island | **Best For**: Iconic views, boat tours, beaches, clear blue water
 
 ### Why It's Ideal
 
 Zakynthos is home to Navagio (Shipwreck) Beach—one of the world's most photographed beaches. While the beach itself is currently closed due to landslide risk, the dramatic viewpoints and boat tours still offer incredible experiences.
+
+**Special Note for Toni**: This was Toni's favorite from her previous Greece trip! She loved the low-key/yogi vibes, the crystal-clear blue water where you can see straight to the bottom, and the friendly locals. She wouldn't mind returning since the others haven't experienced it.
 
 ### Highlights
 
@@ -766,22 +780,37 @@ Pleasant autumn weather, perfect for exploring Ermoupoli on foot
 - **Day Trips**: Delphi (museum is fully accessible), Aegina (easy ferry from Athens)
 - **Avoid**: Santorini (steep), Hydra (all walking), Milos (beach access), Monemvasia (challenging cobblestones), Meteora (except St. Stephen's monastery)
 
-### For Ryan & Toni (37, 36 - Fine Dining, Photography)
+### For Ryan & Toni (38, 37 - Fine Dining, Photography, Clear Blue Water)
 
-**Best Options**: Athens, Thessaloniki, Santorini, Milos, Meteora, Mykonos, Monemvasia, Zakynthos
+**Best Options**: Athens, Thessaloniki, Santorini, Milos, Meteora, Mykonos, Monemvasia, Zakynthos, Naxos, Sifnos, Crete
 
 - **Fine Dining**: Athens (12 Michelin stars), Thessaloniki (newly added to 2026 Michelin Guide), Santorini for emerging scene
 - **Photography**: Santorini (blue domes, sunsets), Milos (unique beaches), Mykonos (windmills, Little Venice), Meteora (dramatic monasteries), Monemvasia (medieval fortress), Zakynthos (Navagio Beach)
+- **Clear Blue Water**: Zakynthos (Toni's favorite!), Milos, Naxos, Crete (Elafonisi, Balos Lagoon), Santorini caldera
 - **Food Experiences**: Athens food tours, Thessaloniki markets, Sifnos culinary heritage, Syros local products
+- **New Destinations for Toni**: Naxos, Sifnos, Hydra, Mykonos, Crete, Milos, Meteora, Corfu, Kefalonia (she's been to Zakynthos, Delphi, Santorini, Athens)
+- **Low-Key Vibes (Similar to Zakynthos)**: Sifnos, Naxos, Kefalonia—peaceful atmosphere, friendly locals, unhurried pace
+- **Museum Balance**: Ryan can enjoy museums while Toni explores shops/cafés (Athens Acropolis Museum, Heraklion Archaeological, Naxos Archaeological, etc.)
+
+### For Donna & Travis (32, 24 - Traveling with Spanish-Speaking Family)
+
+**Best Options**: Athens, Crete, Naxos, Santorini (with caveats), Mykonos
+
+- **Spanish-Language Considerations**: Athens and Crete have Spanish-speaking tour guides available at major sites
+- **Mobility for 80-Year-Olds**: Flat waterfront areas (Chania, Naxos Town, Mykonos Town), avoid steep terrain (Santorini, Hydra hills, Meteora)
+- **Flexible Scheduling**: Islands with casual dining culture (no strict reservations needed)—Naxos, Sifnos, Crete
+- **Low-Key Activities**: People-watching cafés, waterfront strolls, leisurely meals, gentle nature walks
+- **Avoid**: Monemvasia (all cobblestones), Meteora (stairs), Milos (beach access challenges)
 
 ### For Everyone Together (Initial Days)
 
 **Best Options**: Athens + day trips, or Athens + short cruise
 
-- Start in Athens for food tours, Acropolis, museums
-- Day trip options: Nafplio/Mycenae (history), Delphi (ancient site + accessible museum), Aegina (temples + pistachios)
-- Consider 3-day cruise to sample islands together
+- Start in Athens for food tours, Acropolis, museums (in moderation for Toni)—Note: Toni has been here before but others haven't
+- Day trip options: Nafplio/Mycenae (history), Delphi (ancient site + accessible museum—Toni has been here), Aegina (temples + pistachios)
+- Consider 3-day cruise to sample islands together (good for Andy & Kathy's cruise preference)
 - End together in Athens, Crete, or Thessaloniki
+- **For Donna's family**: Keep schedules flexible, choose accessible walking areas, allow for leisurely-paced activities
 
 ---
 

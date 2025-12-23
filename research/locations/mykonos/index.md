@@ -14,6 +14,9 @@ Mykonos is one of Greece's most iconic Cycladic islands, famous for its whitewas
 - Exceptional photography opportunities at Little Venice, the Windmills, and scenic beaches
 - Fine dining scene with restaurants like M-eating (modern Greek) and Krama (tasting menu)
 - Unique local favorites like Kiki's Tavern (no electricity, grilled dishes only) and Maereio (family-run with mother's recipes)
+- Crystal-clear Aegean waters at beaches like Lia and Kalo Livadi—perfect for their love of blue water with excellent visibility
+- **This is a new destination for Toni**, offering fresh exploration beyond her previous Greece visits
+- Museums are optional (Ryan may enjoy the Archaeological Museum; Toni can explore boutiques or catch sunset at Little Venice instead)
 
 **Andy and Kathy** will appreciate:
 - Relaxed October atmosphere without summer crowds
@@ -21,11 +24,13 @@ Mykonos is one of Greece's most iconic Cycladic islands, famous for its whitewas
 - Good views from the windmills and scenic harbor
 - Comfortable day trip to Delos by boat (though not a cruise, it satisfies sea travel)
 
+**Donna and Travis note**: Mykonos Town is relatively flat and walkable, suitable for Donna's family (including two women in their 80s). The island's dining culture is casual—you can linger at waterfront cafés without fixed reservations, fitting their preference for flexibility over strict schedules.
+
 **All couples** will enjoy:
 - Excellent food scene and potential food tours/cooking classes at Rizes farmstead
-- Historical museums (Archaeological Museum, Maritime Museum, Folklore Museum)
+- Historical museums in moderation (Archaeological Museum, Maritime Museum, Folklore Museum—those interested can visit while others explore town)
 - Beautiful nature walks and beaches without strenuous hiking
-- Unique shopping for handmade jewelry, leather sandals, and local crafts on Matogianni Street
+- Unique shopping for handmade jewelry, leather sandals, and local crafts on Matogianni Street (artisan goods, not luxury boutiques)
 
 ## Reasons to Choose
 
