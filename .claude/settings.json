@@ -3,6 +3,7 @@
     "defaultMode": "bypassPermissions"
   },
   "outputStyle": "Vacation Planning",
+  "model": "opus",
   "hooks": {
     "SessionEnd": [
       {
