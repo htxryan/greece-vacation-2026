@@ -1,0 +1,3 @@
+For this vacation, we want to do something together for the first few days (we're flying into Athens), then go independently for the rest of the trip, maybe ending with a few days in the same place (but maybe not if the logistics don't work out).
+
+Travis and Donna are traveling with her family for the duration of the trip, and they will go off separately after the initial together portion. DO NOT worry about planning for their trip after the initial together portion, they want to plan it themselves.

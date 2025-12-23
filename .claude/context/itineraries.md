@@ -1,0 +1,1 @@
+Our primary output (after research) will be suggested full itineraries for the trip. These should be stored in `./itineraries/<itinerary-name>.md`.

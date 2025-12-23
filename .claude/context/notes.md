@@ -1,0 +1,1 @@
+Research notes or saved links that don't fit into a "location" or "activity" page can go in this folder. Ensure they are organized logically.

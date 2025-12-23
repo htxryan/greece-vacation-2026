@@ -1,8 +1,6 @@
-# Jekyll Navigation Guide
-
 This site uses the **Just the Docs** theme (`just-the-docs` v0.8) with GitHub Pages. Navigation is controlled entirely through YAML front matter—**not** file/folder structure.
 
-## Front Matter Properties
+#### Front Matter Properties
 
 | Property | Purpose |
 |----------|---------|
@@ -11,14 +9,14 @@ This site uses the **Just the Docs** theme (`just-the-docs` v0.8) with GitHub Pa
 | `parent` | Parent page's `title` (exact match, case-sensitive) |
 | `has_children` | Set `true` if page has children (makes it collapsible) |
 
-## Navigation Hierarchy Rules
+#### Navigation Hierarchy Rules
 
 1. **Top-level pages**: Only need `nav_order`
 2. **Parent pages**: Add `has_children: true`
 3. **Child pages**: Set `parent: <ParentTitle>`
 4. **Grandchild pages**: Set `parent: <ChildTitle>` (do NOT use `grand_parent`)
 
-## Examples
+#### Examples
 
 **Top-level parent:**
 ```yaml
@@ -48,16 +46,16 @@ nav_order: 1
 ---
 ```
 
-## Common Mistakes
+#### Common Mistakes
 
 - **Wrong:** Using `grand_parent` (not supported—removed in commit efccded)
 - **Wrong:** Forgetting `has_children: true` on pages that need children
 - **Wrong:** Mismatched `parent` value (must exactly match another page's `title`)
 - **Wrong:** Assuming nav follows folder structure (it doesn't)
 
-## Adding Content
+#### Adding Content
 
-### New Location
+##### New Location
 ```yaml
 # research/locations/<name>/index.md
 ---
@@ -68,7 +66,7 @@ has_children: true  # if it will have activity sub-pages
 ---
 ```
 
-### New Activity
+##### New Activity
 ```yaml
 # research/locations/<location>/activities/<activity>.md
 ---
@@ -78,7 +76,7 @@ nav_order: <n>
 ---
 ```
 
-### New Itinerary
+##### New Itinerary
 ```yaml
 # itineraries/<name>.md
 ---
@@ -88,7 +86,7 @@ nav_order: <n>
 ---
 ```
 
-## Current Site Hierarchy
+#### Current Site Hierarchy
 
 ```
 Home (nav_order: 1)
@@ -105,7 +103,7 @@ Planning (nav_order: 4)
 Itineraries (nav_order: 5)
 ```
 
-## Local Development
+#### Local Development
 
 ```bash
 bundle install

@@ -1,10 +1,8 @@
-# GitHub Pages Deployment
-
 **How it works:** Pushing to `main` triggers GitHub's built-in `pages-build-deployment` workflow. No custom workflow needed—GitHub Pages automatically builds Jekyll sites with `remote_theme`.
 
 **Live site:** https://htxryan.github.io/greece-vacation-2026
 
-## Monitoring with GitHub API
+#### Monitoring with GitHub API
 
 Assumes `GITHUB_TOKEN` env var contains a personal access token.
 
@@ -32,7 +30,7 @@ curl -s -H "$AUTH" "$API/actions/runs/RUN_ID" | jq '{status, conclusion, html_ur
 curl -sL -H "$AUTH" "$API/actions/runs/RUN_ID/logs" -o logs.zip && unzip -p logs.zip
 ```
 
-### One-liner: Check if latest deploy succeeded
+##### One-liner: Check if latest deploy succeeded
 
 ```bash
 curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
@@ -40,7 +38,7 @@ curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
   | jq -r '"Build: \(.status) at \(.created_at)"'
 ```
 
-## Troubleshooting
+#### Troubleshooting
 
 | Issue | API Check |
 |-------|-----------|
