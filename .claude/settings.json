@@ -5,7 +5,7 @@
   "outputStyle": "Vacation Planning",
   "model": "opus",
   "hooks": {
-    "SessionEnd": [
+    "Stop": [
       {
         "hooks": [
           {
