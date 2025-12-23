@@ -21,7 +21,3 @@ research/
         └── activities/
             └── [activity-name].md
 ```
-
-## Locations
-
-*Location research will appear here as it's added.*
