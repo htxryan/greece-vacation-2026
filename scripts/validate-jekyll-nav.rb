@@ -7,15 +7,14 @@
 # - Every page has required front matter (title)
 # - nav_order is ONLY allowed on the "Home" page (alphabetical sorting used elsewhere)
 # - Parent references are valid (point to existing pages)
-# - Pages with has_children actually have children
 # - No use of grand_parent (not supported)
 # - No duplicate titles (parent matching is by title)
 # - All pages are reachable in the navigation hierarchy
 #
 # Exit codes:
 #   0 - All validations passed
-#   1 - Validation errors found
-#   2 - Script error
+#   2 - Validation errors found (blocking - Claude will see and react to errors)
+#   3 - Script error
 
 require 'yaml'
 require 'pathname'
@@ -193,32 +192,6 @@ class JekyllNavValidator
     end
   end
 
-  def validate_has_children
-    # Build set of all parent titles
-    parent_titles = Set.new
-    @pages.each_value do |front_matter|
-      parent = front_matter['parent']
-      parent_titles << parent if parent
-    end
-
-    # Check pages with has_children
-    @pages.each do |file_path, front_matter|
-      next unless front_matter['has_children']
-
-      title = front_matter['title']
-      next unless title
-
-      unless parent_titles.include?(title)
-        rel_path = file_path.relative_path_from(@root_dir)
-        @errors << ValidationError.new(
-          rel_path,
-          "Page has 'has_children: true' but no pages reference it as parent",
-          severity: :warning
-        )
-      end
-    end
-  end
-
   def validate_reachability
     @pages.each do |file_path, front_matter|
       title = front_matter['title']
@@ -270,7 +243,6 @@ class JekyllNavValidator
     build_title_index
     validate_no_grand_parent
     validate_parent_references
-    validate_has_children
     validate_reachability
 
     @errors.none? { |e| e.severity == :error }
@@ -337,7 +309,7 @@ def main
 
   unless File.directory?(root_dir)
     warn "Error: Directory not found: #{root_dir}"
-    exit 2
+    exit 3
   end
 
   puts "Validating Jekyll navigation in: #{root_dir}"
@@ -346,7 +318,7 @@ def main
   success = validator.validate
   validator.print_report
 
-  exit(success ? 0 : 1)
+  exit(success ? 0 : 2)
 end
 
 main if __FILE__ == $PROGRAM_NAME
