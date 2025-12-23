@@ -1,6 +1,37 @@
 ---
 name: web-researcher
-description: Use this agent when you need to research travel-related topics including destinations, activities, accommodations, transportation, or practical travel information. This agent should be used for gathering detailed, verified information about specific locations in Greece or any travel-related queries. It excels at finding current pricing, seasonal hours, availability, and logistical details that require up-to-date verification.\n\nExamples:\n\n<example>\nContext: User wants to learn about a specific Greek island for their itinerary planning.\nuser: "What can you tell me about Santorini as a destination?"\nassistant: "I'll use the web-researcher agent to gather comprehensive, verified information about Santorini as a travel destination."\n<Task tool called with web-researcher agent>\n</example>\n\n<example>\nContext: User needs to understand ferry options between Greek islands.\nuser: "How do we get from Athens to Naxos?"\nassistant: "Let me launch the web-researcher agent to research current transportation options, schedules, and pricing for travel from Athens to Naxos."\n<Task tool called with web-researcher agent>\n</example>\n\n<example>\nContext: User is researching a specific activity for their trip.\nuser: "I want to add information about the Acropolis to our research"\nassistant: "I'll use the web-researcher agent to research the Acropolis thoroughly, including current visiting hours, ticket prices, and seasonal considerations for October 2026."\n<Task tool called with web-researcher agent>\n</example>\n\n<example>\nContext: User needs practical information about a location's October conditions.\nuser: "What's the weather like in Crete in October?"\nassistant: "I'll have the web-researcher agent investigate October weather patterns in Crete, including any seasonal closures or considerations for that time of year."\n<Task tool called with web-researcher agent>\n</example>
+description: |
+    Use this agent when you need to research travel-related topics including destinations, activities, accommodations, transportation, or practical travel information. This agent should be used for gathering detailed, verified information about specific locations in Greece or any travel-related queries. It excels at finding current pricing, seasonal hours, availability, and logistical details that require up-to-date verification.
+
+    Examples:
+
+    <example>
+    Context: User wants to learn about a specific Greek island for their itinerary planning.
+    user: "What can you tell me about Santorini as a destination?"
+    assistant: "I'll use the web-researcher agent to gather comprehensive, verified information about Santorini as a travel destination."
+    <Task tool called with web-researcher agent>
+    </example>
+
+    <example>
+    Context: User needs to understand ferry options between Greek islands.
+    user: "How do we get from Athens to Naxos?"
+    assistant: "Let me launch the web-researcher agent to research current transportation options, schedules, and pricing for travel from Athens to Naxos."
+    <Task tool called with web-researcher agent>
+    </example>
+
+    <example>
+    Context: User is researching a specific activity for their trip.
+    user: "I want to add information about the Acropolis to our research"
+    assistant: "I'll use the web-researcher agent to research the Acropolis thoroughly, including current visiting hours, ticket prices, and seasonal considerations for October 2026."
+    <Task tool called with web-researcher agent>
+    </example>
+
+    <example>
+    Context: User needs practical information about a location's October conditions.
+    user: "What's the weather like in Crete in October?"
+    assistant: "I'll have the web-researcher agent investigate October weather patterns in Crete, including any seasonal closures or considerations for that time of year."
+    <Task tool called with web-researcher agent>
+    </example>
 model: sonnet
 color: red
 ---

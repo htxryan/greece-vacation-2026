@@ -6,7 +6,17 @@ Review the Jekyll site configuration, navigation structure, and validate visuall
 
 ## Instructions
 
-Delegate this task to the **jekyll-reviewer** agent, which has exclusive access to Playwright browser automation.
+### Step 1: Enable Playwright MCP Server
+
+First, enable the Playwright MCP server for this session:
+
+```
+/mcp enable playwright
+```
+
+Wait for confirmation that the server is enabled before proceeding.
+
+### Step 2: Delegate to Jekyll Reviewer Agent
 
 Use the Task tool with:
 - `subagent_type`: `jekyll-reviewer`
@@ -69,12 +79,21 @@ This command invokes the `jekyll-reviewer` agent which:
 3. Can start Jekyll locally and validate the rendered site
 4. Provides detailed reports with screenshots
 
+### Step 3: Disable Playwright MCP Server (Optional)
+
+After the review is complete, disable the Playwright MCP server:
+
+```
+/mcp disable playwright
+```
+
 ## Architecture Note
 
-The Playwright MCP server is configured at the project level (`.mcp.json`) but is only accessible to the `jekyll-reviewer` agent through tool scoping. This means:
+The Playwright MCP server is configured in `.mcp.json` but **disabled by default**. This means:
 
-- The main conversation does not have direct access to Playwright tools
-- Other agents (like `web-researcher`) do not have Playwright access
-- Only the `jekyll-reviewer` agent can perform browser automation
+- The main conversation does not have Playwright tools available normally
+- The server must be explicitly enabled with `/mcp enable playwright`
+- Once enabled, the `jekyll-reviewer` agent can use browser automation
+- After the review, disable it to return to normal operation
 
 This design keeps browser automation isolated to site review tasks only.
