@@ -15,3 +15,4 @@ parent: Travel Parties
 - Photography and unique photo opportunities
 - water (waterfalls, blue water where you can see straight to the bottom) - not necessarily getting in the water (unless you can see to the bottom)
 - Toni has an aversion to insects (pretty severe arachnaphobia)
+- Toni wants limited museums, but Ryan likes them
