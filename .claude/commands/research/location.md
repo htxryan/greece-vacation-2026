@@ -1,5 +1,7 @@
 # Research Location Command
 
+ULTRATHINK
+
 Research a location in Greece for our October 2026 family vacation.
 
 **Location to research:** $ARGUMENTS

@@ -1,5 +1,7 @@
 # Research Activity Command
 
+ULTRATHINK
+
 Research a specific activity at a location in Greece for our October 2026 family vacation.
 
 **Arguments:** $ARGUMENTS

@@ -1,5 +1,7 @@
 # General Research Command
 
+ULTRATHINK
+
 Conduct general research on a topic related to our Greece October 2026 family vacation. Use this for topics that aren't specific to a single location or activity.
 
 **Research Topic:** $ARGUMENTS
