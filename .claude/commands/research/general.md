@@ -120,7 +120,6 @@ Create the file at `./notes/<slug>.md` with this structure:
 ---
 title: <Descriptive Title>
 parent: Planning
-nav_order: <n>
 ---
 
 # <Title>

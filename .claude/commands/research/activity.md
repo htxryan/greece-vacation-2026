@@ -96,7 +96,6 @@ Follow the template at `./.claude/templates/activity.md` exactly. Fill in:
 ---
 title: <Activity Name>
 parent: <Location Name>  # Must match location's title exactly
-nav_order: <n>
 ---
 ```
 

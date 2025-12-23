@@ -9,6 +9,9 @@ baseurl: "/greece-vacation-2026"
 # Color scheme (light, dark, or custom)
 color_scheme: light
 
+# Navigation sorting - alphabetical by title (only Home uses nav_order)
+nav_sort: case_insensitive
+
 # Enable search
 search_enabled: true
 search:

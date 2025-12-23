@@ -1,28 +1,39 @@
 This site uses the **Just the Docs** theme (`just-the-docs` v0.8) with GitHub Pages. Navigation is controlled entirely through YAML front matter—**not** file/folder structure.
 
+#### Navigation Sorting
+
+Pages are sorted **alphabetically by title** (case-insensitive). The only exception is the "Home" page, which uses `nav_order: 1` to ensure it appears first.
+
 #### Front Matter Properties
 
 | Property | Purpose |
 |----------|---------|
-| `title` | Page name in sidebar (also used for `parent` matching) |
-| `nav_order` | Position in nav (lower = higher) |
+| `title` | Page name in sidebar (also used for `parent` matching and alphabetical sorting) |
 | `parent` | Parent page's `title` (exact match, case-sensitive) |
 | `has_children` | Set `true` if page has children (makes it collapsible) |
+| `nav_order` | **Only for "Home" page** - do not use elsewhere |
 
 #### Navigation Hierarchy Rules
 
-1. **Top-level pages**: Only need `nav_order`
+1. **Top-level pages**: Only need `title` (sorted alphabetically)
 2. **Parent pages**: Add `has_children: true`
 3. **Child pages**: Set `parent: <ParentTitle>`
 4. **Grandchild pages**: Set `parent: <ChildTitle>` (do NOT use `grand_parent`)
 
 #### Examples
 
+**Home page (only page with nav_order):**
+```yaml
+---
+title: Home
+nav_order: 1
+---
+```
+
 **Top-level parent:**
 ```yaml
 ---
 title: Research
-nav_order: 3
 has_children: true
 ---
 ```
@@ -32,7 +43,6 @@ has_children: true
 ---
 title: Locations
 parent: Research
-nav_order: 1
 has_children: true
 ---
 ```
@@ -42,12 +52,12 @@ has_children: true
 ---
 title: Athens
 parent: Locations
-nav_order: 1
 ---
 ```
 
 #### Common Mistakes
 
+- **Wrong:** Using `nav_order` on any page except "Home"
 - **Wrong:** Using `grand_parent` (not supported—removed in commit efccded)
 - **Wrong:** Forgetting `has_children: true` on pages that need children
 - **Wrong:** Mismatched `parent` value (must exactly match another page's `title`)
@@ -61,7 +71,6 @@ nav_order: 1
 ---
 title: <Location Name>
 parent: Locations
-nav_order: <n>
 has_children: true  # if it will have activity sub-pages
 ---
 ```
@@ -72,7 +81,6 @@ has_children: true  # if it will have activity sub-pages
 ---
 title: <Activity Name>
 parent: <Location Name>  # must match location's title exactly
-nav_order: <n>
 ---
 ```
 
@@ -82,25 +90,24 @@ nav_order: <n>
 ---
 title: <Itinerary Name>
 parent: Itineraries
-nav_order: <n>
 ---
 ```
 
 #### Current Site Hierarchy
 
 ```
-Home (nav_order: 1)
-Resources (nav_order: 2)
+Home (nav_order: 1 - always first)
+Itineraries (alphabetical)
+Planning (alphabetical)
+Research (alphabetical)
+└── Locations
+    └── [location pages → activity sub-pages, all alphabetical]
+Resources (alphabetical)
 ├── Global Preferences
 └── Travel Parties
     ├── Andy and Kathy
     ├── Donna and Travis
     └── Ryan and Toni
-Research (nav_order: 3)
-└── Locations
-    └── [location pages → activity sub-pages]
-Planning (nav_order: 4)
-Itineraries (nav_order: 5)
 ```
 
 #### Local Development

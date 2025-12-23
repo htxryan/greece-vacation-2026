@@ -1,7 +1,6 @@
 ---
 title: Andy and Kathy
 parent: Travel Parties
-nav_order: 1
 ---
 
 # Andy and Kathy

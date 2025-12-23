@@ -10,7 +10,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "ruby \"$CLAUDE_PROJECT_DIR/scripts/validate-jekyll-nav.rb\" \"$CLAUDE_PROJECT_DIR\"",
+            "command": "ruby ${CLAUDE_PROJECT_DIR}/scripts/validate-jekyll-nav.rb .",
             "timeout": 30
           }
         ]

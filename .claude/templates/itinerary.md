@@ -1,3 +1,8 @@
+---
+title: [Itinerary Name]
+parent: Itineraries
+---
+
 # Itinerary: [Itinerary Name]
 
 ## Overview

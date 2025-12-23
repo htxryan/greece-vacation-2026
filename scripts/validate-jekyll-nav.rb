@@ -4,7 +4,8 @@
 # Jekyll Navigation Validator for Just the Docs Theme
 #
 # Validates that all .md files in the Jekyll site follow the navigation scheme:
-# - Every page has required front matter (title, nav_order)
+# - Every page has required front matter (title)
+# - nav_order is ONLY allowed on the "Home" page (alphabetical sorting used elsewhere)
 # - Parent references are valid (point to existing pages)
 # - Pages with has_children actually have children
 # - No use of grand_parent (not supported)
@@ -115,13 +116,21 @@ class JekyllNavValidator
           "Missing required 'title' in front matter"
         )
       end
+    end
+  end
 
-      unless front_matter['nav_order']
-        @errors << ValidationError.new(
-          rel_path,
-          "Missing required 'nav_order' in front matter"
-        )
-      end
+  def validate_nav_order_restricted
+    @pages.each do |file_path, front_matter|
+      next unless front_matter['nav_order']
+
+      title = front_matter['title']
+      next if title == 'Home'
+
+      rel_path = file_path.relative_path_from(@root_dir)
+      @errors << ValidationError.new(
+        rel_path,
+        "nav_order is only allowed on 'Home' page - use alphabetical sorting for all other pages"
+      )
     end
   end
 
@@ -215,18 +224,8 @@ class JekyllNavValidator
       title = front_matter['title']
       next unless title
 
-      rel_path = file_path.relative_path_from(@root_dir)
-
-      # If page has no parent, it must have nav_order to be top-level
-      unless front_matter['parent']
-        unless front_matter['nav_order']
-          @errors << ValidationError.new(
-            rel_path,
-            "Page has no parent and no nav_order - will not appear in navigation"
-          )
-        end
-        next
-      end
+      # Top-level pages (no parent) are valid - they'll be sorted alphabetically
+      next unless front_matter['parent']
 
       # Trace parent chain to ensure it reaches a top-level page
       visited = Set.new([title])
@@ -257,38 +256,6 @@ class JekyllNavValidator
     end
   end
 
-  def validate_nav_order_uniqueness
-    # Group pages by their parent
-    siblings = Hash.new { |h, k| h[k] = [] }
-
-    @pages.each do |file_path, front_matter|
-      parent = front_matter['parent']
-      siblings[parent] << [file_path, front_matter]
-    end
-
-    # Check for duplicate nav_order within each group
-    siblings.each do |parent, pages_list|
-      nav_orders = {}
-      pages_list.each do |file_path, front_matter|
-        nav_order = front_matter['nav_order']
-        next unless nav_order
-
-        rel_path = file_path.relative_path_from(@root_dir)
-
-        if nav_orders[nav_order]
-          context = parent ? "under parent '#{parent}'" : "at top level"
-          @errors << ValidationError.new(
-            rel_path,
-            "Duplicate nav_order #{nav_order} #{context} (also in #{nav_orders[nav_order]})",
-            severity: :warning
-          )
-        else
-          nav_orders[nav_order] = rel_path
-        end
-      end
-    end
-  end
-
   def validate
     load_pages
 
@@ -299,12 +266,12 @@ class JekyllNavValidator
 
     # Run validations in order
     validate_required_fields
+    validate_nav_order_restricted
     build_title_index
     validate_no_grand_parent
     validate_parent_references
     validate_has_children
     validate_reachability
-    validate_nav_order_uniqueness
 
     @errors.none? { |e| e.severity == :error }
   end
@@ -318,32 +285,35 @@ class JekyllNavValidator
     error_list = @errors.select { |e| e.severity == :error }
     warning_list = @errors.select { |e| e.severity == :warning }
 
-    puts
-    puts "Jekyll Navigation Validation Report"
-    puts "=" * 50
-    puts "Pages scanned: #{@pages.size}"
-    puts "Errors: #{error_list.size}"
-    puts "Warnings: #{warning_list.size}"
-    puts
+    # Write to stderr when there are errors (for hook integration)
+    out = error_list.empty? ? $stdout : $stderr
+
+    out.puts
+    out.puts "Jekyll Navigation Validation Report"
+    out.puts "=" * 50
+    out.puts "Pages scanned: #{@pages.size}"
+    out.puts "Errors: #{error_list.size}"
+    out.puts "Warnings: #{warning_list.size}"
+    out.puts
 
     unless error_list.empty?
-      puts "ERRORS:"
-      puts "-" * 50
+      out.puts "ERRORS:"
+      out.puts "-" * 50
       error_list.each do |error|
-        puts "  #{error.file_path}"
-        puts "    #{error.message}"
+        out.puts "  #{error.file_path}"
+        out.puts "    #{error.message}"
       end
-      puts
+      out.puts
     end
 
     unless warning_list.empty?
-      puts "WARNINGS:"
-      puts "-" * 50
+      out.puts "WARNINGS:"
+      out.puts "-" * 50
       warning_list.each do |warning|
-        puts "  #{warning.file_path}"
-        puts "    #{warning.message}"
+        out.puts "  #{warning.file_path}"
+        out.puts "    #{warning.message}"
       end
-      puts
+      out.puts
     end
   end
 end
