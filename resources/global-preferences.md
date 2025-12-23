@@ -1,6 +1,5 @@
 ---
 title: Global Preferences
-layout: default
 parent: Resources
 nav_order: 1
 ---

@@ -1,7 +1,6 @@
 ---
 title: Possible Locations
-parent: Planning
-nav_order: 1
+parent: Notes
 ---
 
 # Top 10 Location Options for Greece October 2026

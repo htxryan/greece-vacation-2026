@@ -1,6 +1,5 @@
 ---
 title: Andy and Kathy
-layout: default
 parent: Travel Parties
 nav_order: 1
 ---

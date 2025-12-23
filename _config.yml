@@ -45,8 +45,9 @@ exclude:
   - CLAUDE.md
   - README.md
 
-# Collections for organizing content
-collections:
-  research:
-    output: true
-    permalink: /research/:path/
+# Front matter defaults - automatically apply layout to all pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

@@ -1,6 +1,5 @@
 ---
 title: Donna and Travis
-layout: default
 parent: Travel Parties
 nav_order: 2
 ---
@@ -8,7 +7,7 @@ nav_order: 2
 # Donna and Travis
 
 - Donna Delgado, 24
-- Travis Henderson, 30
+- Travis Henderson, 32
 
 ## Specific Preferences
 

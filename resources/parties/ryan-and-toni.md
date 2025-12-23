@@ -1,14 +1,13 @@
 ---
 title: Ryan and Toni
-layout: default
 parent: Travel Parties
 nav_order: 3
 ---
 
 # Ryan and Toni
 
-- Ryan Henderson, 37
-- Antoinette ("Toni") Haag, 36
+- Ryan Henderson, 38
+- Antoinette ("Toni") Haag, 37
 
 ## Specific Preferences
 
