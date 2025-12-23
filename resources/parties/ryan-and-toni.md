@@ -13,5 +13,5 @@ parent: Travel Parties
 - Fine dining (Michelin star restaurants)
 - Unique dining (local favorites, holes in the wall)
 - Photography and unique photo opportunities
-- water (waterfalls, blue water where you can see straight to the bottom)
+- water (waterfalls, blue water where you can see straight to the bottom) - not necessarily getting in the water (unless you can see to the bottom)
 - Toni has an aversion to insects (pretty severe arachnaphobia)
