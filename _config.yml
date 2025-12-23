@@ -37,6 +37,7 @@ exclude:
   - .claude/
   - node_modules/
   - vendor/
+  - scripts/
   - "*.gemspec"
   - Gemfile.lock
   - LICENSE

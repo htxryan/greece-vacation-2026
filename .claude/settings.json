@@ -2,5 +2,18 @@
   "permissions": {
     "defaultMode": "bypassPermissions"
   },
-  "outputStyle": "Vacation Planning"
+  "outputStyle": "Vacation Planning",
+  "hooks": {
+    "SessionEnd": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "ruby \"$CLAUDE_PROJECT_DIR/scripts/validate-jekyll-nav.rb\" \"$CLAUDE_PROJECT_DIR\"",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
 }
