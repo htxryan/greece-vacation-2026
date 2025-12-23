@@ -10,11 +10,13 @@ Naxos is the largest and greenest island in the Cyclades, located in the heart o
 
 ## Who This is For
 
-**Ryan and Toni** will particularly love Naxos for its exceptional dining scene. The island grows almost all of its food locally, offering both fine dining experiences (like Axiotissa and Typografio) and authentic local tavernas (like Vassilis Tavern and To Gefyraki) that serve traditional recipes with ingredients grown within kilometers of the restaurant. The photogenic Portara at sunset and picturesque villages like Halki and Apiranthos provide endless photography opportunities.
+**Ryan and Toni** will particularly love Naxos for its exceptional dining scene. The island grows almost all of its food locally, offering both fine dining experiences (like Axiotissa and Typografio) and authentic local tavernas (like Vassilis Tavern and To Gefyraki) that serve traditional recipes with ingredients grown within kilometers of the restaurant. The photogenic Portara at sunset and picturesque villages like Halki and Apiranthos provide endless photography opportunities. The beaches here feature crystal-clear Aegean waters with excellent visibility—perfect for those who love seeing straight to the bottom. This is a new destination for Toni (not one she's visited before), offering fresh exploration. Ryan can enjoy the Archaeological Museum while Toni explores the charming Old Town shops—a good compromise given their museum preferences.
 
 **Andy and Kathy** will appreciate the relaxed pace, beautiful beaches with easy access (Agios Georgios is right in town), and the opportunity to enjoy good views and people-watching from the charming Naxos Town waterfront. The island is well-connected by ferry to other Cycladic islands if they want to explore further.
 
-**All couples** will enjoy the excellent food scene, history museums (Archaeological Museum in Naxos Town), beautiful nature with minimal hiking required, unique local shopping (kitron liqueur, local cheeses, handcrafts), and the generally relaxed atmosphere.
+**All couples** will enjoy the excellent food scene, history museums (in moderation—Archaeological Museum in Naxos Town for those interested), beautiful nature with minimal hiking required, and unique local shopping (kitron liqueur, local cheeses, handcrafts—artisan goods rather than luxury boutiques). The generally relaxed atmosphere suits the group well.
+
+**Donna and Travis note**: Naxos Town's flat waterfront area and pedestrian-friendly Old Town work well for Donna's family members (including two women in their 80s). The island's casual taverna culture doesn't require reservations or strict dining times—perfect for their preference to avoid rigid schedules.
 
 ## Reasons to Choose
 

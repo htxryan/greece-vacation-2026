@@ -10,11 +10,11 @@ Santorini (also known as Thira) is one of Greece's most iconic islands, famous f
 
 ## Who This is For
 
-**Ryan and Toni** - Santorini is a photographer's paradise with endless unique photo opportunities: the iconic blue domes of Oia, dramatic caldera sunsets, colorful volcanic beaches, and charming village streets. The island also offers exceptional fine dining options, including Michelin-starred restaurants and sophisticated Greek cuisine with caldera views.
+**Ryan and Toni** - Santorini is a photographer's paradise with endless unique photo opportunities: the iconic blue domes of Oia, dramatic caldera sunsets, colorful volcanic beaches, and charming village streets. The island also offers exceptional fine dining options, including Michelin-starred restaurants and sophisticated Greek cuisine with caldera views. Note: Toni has visited Santorini before, but wouldn't mind returning since the others haven't been to Greece. For her, this would be a chance to revisit favorite spots while sharing them with the group. The crystal-clear caldera waters offer excellent visibility—perfect for Ryan and Toni's love of clear blue water views.
 
 **Andy and Kathy** - The laid-back atmosphere, spectacular views from clifftop villages, and opportunities for relaxed exploration (by bus, taxi, or short walks) make Santorini ideal. The island's famous sunsets, excellent food scene, and people-watching opportunities in Oia and Fira are perfect for a relaxing vacation.
 
-**Donna and Travis** - As part of the initial group portion, Santorini offers a quintessential Greek island experience with a good mix of relaxation, culture, and activities suitable for all ages.
+**Donna and Travis** - As part of the initial group portion, Santorini offers a quintessential Greek island experience with a good mix of relaxation, culture, and activities suitable for all ages. Note: For Donna's Spanish-speaking family (including two women in their 80s), Santorini's caldera-view restaurants and sunset viewing can be done at a leisurely pace without rigid schedules. However, be aware that some areas have steep paths—stick to Fira's main walkways and use taxis for easier access.
 
 ## Reasons to Choose
 

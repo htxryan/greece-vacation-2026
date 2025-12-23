@@ -21,9 +21,11 @@ October is an ideal time to visit Crete:
 
 **Andy and Kathy**: The island's relaxed pace, stunning harbor views in Chania, excellent people-watching opportunities, and accessible historical sites make it perfect for them. The Venetian harbors are ideal for leisurely strolls without strenuous activity.
 
-**Ryan and Toni**: Crete delivers on fine dining and unique local cuisine. While the island doesn't have Michelin-starred restaurants (Greece's Michelin coverage is limited to Athens), exceptional culinary experiences abound — from traditional Cretan tavernas to upscale hotel restaurants. The photogenic Venetian harbors, pink sand beaches, and ancient ruins offer endless photography opportunities.
+**Ryan and Toni**: Crete delivers on fine dining and unique local cuisine. While the island doesn't have Michelin-starred restaurants (Greece's Michelin coverage is limited to Athens), exceptional culinary experiences abound — from traditional Cretan tavernas to upscale hotel restaurants. The photogenic Venetian harbors, pink sand beaches, and ancient ruins offer endless photography opportunities. Beaches like Elafonisi and Balos Lagoon offer the crystal-clear, turquoise water with incredible visibility that Ryan and Toni love. **This is a new destination for Toni**, offering fresh Greek island experiences beyond her previous visits. Ryan would enjoy the Palace of Knossos and Heraklion Archaeological Museum, while Toni might prefer spending that time exploring Chania's colorful streets and harbor—a good way to accommodate their different museum interests.
 
-**All couples together**: Chania's Old Town provides a wonderful shared experience combining food tours, historical exploration, unique shopping, and beautiful views — all without requiring strenuous hiking.
+**Donna and Travis**: Chania's flat Old Town and waterfront are ideal for Donna's Spanish-speaking family (including two women in their 80s). The casual dining culture allows flexible meal times without strict reservations, fitting their preference to avoid rigid schedules. Many tour operators in Crete offer Spanish-language guides for major sites.
+
+**All couples together**: Chania's Old Town provides a wonderful shared experience combining food tours, historical exploration, unique shopping (artisan crafts, local olive oil, Cretan knives—not luxury boutiques), and beautiful views — all without requiring strenuous hiking.
 
 ## Reasons to Choose
 
