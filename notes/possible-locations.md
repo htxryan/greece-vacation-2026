@@ -3,7 +3,7 @@ title: Possible Locations
 parent: Notes
 ---
 
-# Top 10 Location Options for Greece October 2026
+# Top 20 Location Options for Greece October 2026
 
 This research identifies the best cities and islands to consider for our 12-day family vacation in October 2026. Locations are evaluated based on: October weather, accessibility for older travelers (Andy & Kathy, 70/68), fine dining and photography opportunities (Ryan & Toni), food tours and culinary experiences, history museums, relaxation, and people-watching.
 
@@ -336,6 +336,398 @@ Excellent match for global preferences: good food, food tours, unique shopping, 
 
 ---
 
+## 11. Thessaloniki
+
+**Type**: Major City (Northern Greece) | **Best For**: Food lovers, Byzantine history, museums, urban exploration
+
+### Why It's Ideal
+
+Greece's second-largest city offers an exceptional culinary scene, UNESCO-listed Byzantine monuments, and a vibrant waterfront—without the tourist intensity of Athens. Thessaloniki has been added to the **2026 MICHELIN Guide**, making it a major destination for fine dining enthusiasts.
+
+### Highlights
+
+- **Food Scene**: Famous markets (Modiano, Kapani), meze culture, street food, Ottoman and Balkan influences, Ladadika district
+- **Museums**: Archaeological Museum (Macedonian artifacts, Vergina treasures), Museum of Byzantine Culture (30,000+ artifacts)
+- **History**: White Tower (landmark), Arch of Galerius, Rotunda, 15 UNESCO World Heritage Byzantine monuments
+- **Atmosphere**: Youthful, cosmopolitan, excellent waterfront cafes and people-watching at Aristotelous Square
+
+### Considerations
+
+| Pros | Cons |
+|------|------|
+| Exceptional food scene | Further north (5hr drive or 50min flight from Athens) |
+| 2026 Michelin Guide addition | Less "island" vacation feel |
+| 15 UNESCO Byzantine monuments | Larger city to navigate |
+| Great museums for history lovers | Not beach-focused |
+
+### October Weather
+Average high: 20°C (68°F), pleasant for walking and exploring
+
+### Best For Your Group
+**Ryan & Toni**: New Michelin Guide destination, exceptional dining
+**Everyone**: Food tours, Byzantine museums, waterfront relaxation
+
+---
+
+## 12. Mykonos
+
+**Type**: Cycladic Island | **Best For**: Photography, iconic windmills, fine dining (quieter in October)
+
+### Why It's Ideal
+
+While famous as a party destination in summer, October transforms Mykonos into a quieter, more accessible photography paradise. The iconic windmills, Little Venice, and whitewashed streets are far less crowded, with warm weather still perfect for exploration.
+
+### Highlights
+
+- **Photography**: Church of Paraportiani (most photographed church), Little Venice sunset views, iconic windmills
+- **October Atmosphere**: Beaches peaceful, streets serene, better hotel availability, affordable rates
+- **Fine Dining**: Several upscale restaurants remain open through October
+- **Views**: Dramatic Cycladic architecture, blue hour shots at Little Venice
+
+### Considerations
+
+| Pros | Cons |
+|------|------|
+| Iconic photography spots | Many restaurants/hotels close mid-October |
+| Much quieter than summer | Still has party reputation |
+| Warm October weather (23°C) | More expensive than other islands |
+| Good ferry connections | Less authentic feel |
+
+### October Weather
+Average: 23°C (74°F), sea temperature: 23°C (73°F), warm enough for swimming in early October
+
+### Photography Spots
+- **Church of Paraportiani**: Arrive early morning for crowd-free shots
+- **Little Venice**: Golden hour and blue hour
+- **Windmills**: Classic Mykonos backdrop
+
+### Accessibility Note
+Mykonos Town is reasonably walkable and accessible to the ferry port, shops, and restaurants—better than Santorini for mobility.
+
+---
+
+## 13. Meteora
+
+**Type**: Mainland UNESCO Site | **Best For**: Dramatic photography, unique spiritual experience, autumn colors
+
+### Why It's Ideal
+
+The gravity-defying monasteries of Meteora, perched atop massive rock pillars, offer one of Greece's most dramatic landscapes. October provides mild weather, autumn colors, and fewer crowds than summer—ideal for photography.
+
+### Highlights
+
+- **UNESCO Site**: 6 active monasteries perched on towering rock formations
+- **Photography**: Dramatic landscapes, sunrise/sunset lighting, autumn foliage
+- **Spiritual Experience**: Active monasteries with Byzantine frescoes
+- **Hiking**: Gentler autumn temperatures for walking between monasteries
+
+### Accessibility Considerations
+
+| Monastery | Stairs | Accessibility |
+|-----------|--------|---------------|
+| St. Stephen's (Agios Stefanos) | Minimal | **Best for seniors**—reached by footbridge, mostly flat |
+| Roussanou | ~140 | Moderate—second-best option |
+| Varlaam | ~140 | Moderate |
+| Great Meteoron | 300+ | **Challenging**—most stairs |
+| Holy Trinity | 140+ | Challenging |
+| St. Nicholas | ~140 | Moderate |
+
+### Considerations
+
+| Pros | Cons |
+|------|------|
+| Unforgettable dramatic scenery | 4-5 hour drive from Athens |
+| October has perfect weather | Most monasteries require climbing |
+| Fewer crowds than summer | Modest dress code required |
+| St. Stephen's accessible by footbridge | Not an island/beach destination |
+
+### October Weather
+Mild temperatures ideal for exploration, autumn colors in surrounding area
+
+### Best For Your Group
+**Ryan & Toni**: World-class photography opportunity
+**Andy & Kathy**: St. Stephen's monastery is accessible; could do a guided tour with car/van transport between sites
+
+---
+
+## 14. Corfu
+
+**Type**: Ionian Island | **Best For**: UNESCO Old Town, Venetian/British history, lush scenery
+
+### Why It's Ideal
+
+Corfu offers a distinctly different Greek island experience—lush green landscapes, Venetian and British colonial architecture, and a UNESCO World Heritage Old Town. October still offers warm swimming temperatures and the island's famous Beer Festival.
+
+### Highlights
+
+- **UNESCO Old Town**: Venetian fortresses, neoclassical buildings, British colonial influence
+- **History**: First Greek university, Venetian-French-British colonial layers
+- **Nature**: Greenest Greek island, olive groves, scenic countryside
+- **Food**: Unique cuisine (portokalopita orange pie), local wine, mandoles (caramelised almonds)
+- **October Event**: Corfu Beer Festival with live music and local food
+
+### Considerations
+
+| Pros | Cons |
+|------|------|
+| UNESCO World Heritage Old Town | More rainfall than other islands |
+| Unique Venetian architecture | Further from Athens |
+| Lush green scenery | Can feel less "Greek island" |
+| Different from Cycladic islands | Some tourist areas |
+
+### October Weather
+Average: 20-26°C (68-79°F), warmer than many islands; sea temperature: 22°C (72°F) for swimming
+**Note**: Corfu gets more rain than other Greek islands (120mm in October across 11 days)
+
+### Best For Your Group
+**History Lovers**: Unique multi-layered colonial history
+**Everyone**: Something different from typical Cycladic islands
+
+---
+
+## 15. Delphi
+
+**Type**: Mainland UNESCO Site | **Best For**: Ancient history, mythology, day trip from Athens
+
+### Why It's Ideal
+
+Once considered the center of the world ("Navel of the Earth"), Delphi was home to the famous Oracle and Temple of Apollo. The archaeological site and excellent museum make it one of Greece's most important historical destinations.
+
+### Highlights
+
+- **Ancient Site**: Temple of Apollo, ancient theater, athletic stadium
+- **Museum**: Fully accessible with elevator, world-class Archaic and Classical artifacts
+- **Mythology**: Home of the Delphic Oracle, sacred to Apollo
+- **Scenery**: Dramatic mountain setting overlooking olive groves
+- **Day Trip**: 2.5 hours from Athens, tours include lunch stop in Arachova
+
+### Accessibility Considerations
+
+| Area | Accessibility |
+|------|---------------|
+| Archaeological Site | **Challenging**—steep hillside, uneven terrain, stone steps |
+| Lower Sanctuary Areas | **Partially accessible**—good views without climbing |
+| Archaeological Museum | **Fully accessible**—elevator, wheelchair-friendly, accessible restrooms |
+
+### Considerations
+
+| Pros | Cons |
+|------|------|
+| Essential ancient Greek history | Archaeological site is steep |
+| Fully accessible museum | 10-hour day trip from Athens |
+| Dramatic mountain setting | Not a relaxation destination |
+| Good tour options available | Can be tiring for seniors |
+
+### October Weather
+Mild autumn weather ideal for site visits, less hot than summer
+
+### Best For Your Group
+**History Lovers**: Essential Greek history
+**Andy & Kathy**: Can enjoy the fully accessible museum even if the outdoor site is challenging
+**Tour Option**: Book a private tour with comfortable transport
+
+---
+
+## 16. Monemvasia
+
+**Type**: Peloponnese Medieval Fortress Town | **Best For**: Unique atmosphere, photography, romantic setting
+
+### Why It's Ideal
+
+Monemvasia is one of Europe's oldest continuously inhabited fortress towns—a dramatic rock island connected to the mainland by a causeway. The car-free medieval town features Byzantine churches, Venetian architecture, and breathtaking sea views.
+
+### Highlights
+
+- **Unique Setting**: Medieval fortress town carved into a massive rock
+- **Architecture**: Byzantine churches, Venetian buildings, cobblestone streets
+- **Atmosphere**: Car-free, quiet nights with only the sound of waves
+- **Photography**: Upper and lower town views, dramatic sea backdrop
+- **History**: Continuous habitation since 6th century, once major Mediterranean trading center
+
+### Accessibility Considerations
+
+**Important**: This is **NOT ideal for Andy & Kathy**
+- No cars allowed in the old town
+- Narrow, uneven cobblestone paths
+- Stone steps throughout
+- Luggage must be carried or pulled over cobblestones
+- Upper town requires 20-minute steep climb
+
+### Considerations
+
+| Pros | Cons |
+|------|------|
+| Utterly unique medieval atmosphere | Very challenging accessibility |
+| One of Europe's oldest fortress towns | 4-hour drive from Athens |
+| Stunning photography opportunities | Walking on uneven cobblestones |
+| Romantic boutique hotels | Not for limited mobility |
+
+### October Weather
+Mild autumn temperatures, perfect for exploring without summer heat
+
+### Best For Your Group
+**Ryan & Toni**: Exceptional photography, unique romantic destination
+**NOT for Andy & Kathy**: Too challenging for mobility
+
+---
+
+## 17. Aegina
+
+**Type**: Saronic Island | **Best For**: Easy day trip, ancient temples, pistachio food experiences
+
+### Why It's Ideal
+
+Just 45 minutes by fast ferry from Athens, Aegina offers ancient temples, famous pistachios, and authentic island life—perfect for a day trip during your Athens stay. Less touristy than other Saronic islands.
+
+### Highlights
+
+- **Temple of Aphaea**: Remarkably preserved 480 BC temple, part of the "Sacred Triangle" with the Parthenon and Temple of Poseidon
+- **Famous Pistachios**: PDO-protected "green gold," pistachio ice cream, pastries, pesto, orchard tours
+- **Island Character**: Authentic Greek island life, working fishing harbor
+- **Temple of Apollo**: 6th century BCE ruins in town
+
+### Considerations
+
+| Pros | Cons |
+|------|------|
+| Easy 45-minute ferry from Athens | Small island, limited to day trip |
+| World-famous pistachios | Less dramatic than Cyclades |
+| Important ancient temple | Not a "must-see" if time limited |
+| Affordable, authentic experience | Limited accommodation |
+
+### October Weather
+Pleasant autumn weather, perfect for temple visits and harbor strolling
+
+### Day Trip Itinerary
+- Early ferry from Piraeus (7-8am)
+- Visit Temple of Aphaea
+- Explore Aegina Town, pistachio shopping
+- Lunch by the harbor
+- Evening ferry back to Athens
+
+### Best For Your Group
+**Food Lovers**: Unique pistachio culinary experience
+**History Lovers**: Temple of Aphaea is remarkably preserved
+**Everyone**: Easy addition during Athens stay
+
+---
+
+## 18. Zakynthos
+
+**Type**: Ionian Island | **Best For**: Iconic views, boat tours, beaches
+
+### Why It's Ideal
+
+Zakynthos is home to Navagio (Shipwreck) Beach—one of the world's most photographed beaches. While the beach itself is currently closed due to landslide risk, the dramatic viewpoints and boat tours still offer incredible experiences.
+
+### Highlights
+
+- **Navagio Beach Views**: Iconic shipwreck in turquoise cove, viewable from clifftop platforms and boat tours
+- **Blue Caves**: Stunning sea caves on northern coast
+- **Beaches**: Multiple beautiful beaches beyond Navagio
+- **Sea Turtles**: Loggerhead turtle nesting area (though breeding season ends September)
+
+### Important Note
+**Beach Status**: The beach itself is currently closed to visitors due to landslide risk (since 2022). However, the elevated viewpoints provide spectacular views, and boat tours circle the cove for shipwreck photos.
+
+### Accessibility Considerations
+
+| Activity | Accessibility |
+|----------|---------------|
+| Main Viewpoint | Accessible by car, short walk |
+| Unofficial Viewpoints | Uneven terrain, cliff edges—challenging |
+| Beach (when open) | Boat-only access, not suitable for mobility issues |
+| Boat Tours | Standard boat access, some assistance available |
+
+### Considerations
+
+| Pros | Cons |
+|------|------|
+| One of world's most famous views | Beach closed (viewpoints only) |
+| Beautiful boat tours available | Western coast can be windy |
+| Multiple other beaches | Not as close to Athens |
+| Quieter in October | Party reputation in summer |
+
+### October Weather
+Mild (25°C), warm sea (23°C), quieter season with fewer tourists
+
+### Best For Your Group
+**Ryan & Toni**: Iconic photography opportunity
+**Everyone**: Dramatic views from clifftop platforms
+**Boat Tours**: €25-50 for tours including Blue Caves
+
+---
+
+## 19. Kefalonia
+
+**Type**: Ionian Island | **Best For**: Dramatic beaches, wine, authentic island life
+
+### Why It's Ideal
+
+Kefalonia offers some of Greece's most stunning beaches (including Myrtos, featured in "Captain Corelli's Mandolin"), excellent Robola wine, and October brings the grape and olive harvest seasons—a wonderful glimpse into authentic island agricultural life.
+
+### Highlights
+
+- **Beaches**: Myrtos (dramatic cliffs, turquoise water), Antisamos, Xi (red sand)
+- **Wine**: Robola grape harvest in autumn, vineyard tours and tastings
+- **Villages**: Picturesque Fiskardo and Assos, quieter in October
+- **Local Food**: Cod pie (bakaliaropita), wild greens with rice, local feta, thyme honey
+- **October Timing**: Witness grape-picking transitioning to olive harvest
+
+### Considerations
+
+| Pros | Cons |
+|------|------|
+| Stunning dramatic beaches | Weather can be variable in October |
+| Robola wine harvest season | Some tourist businesses closing |
+| Less touristy than other islands | Not as close to Athens |
+| Warm sea (23°C) still swimmable | Needs car to explore properly |
+
+### October Weather
+Average: 18-24°C, sea: 23°C, mostly sunny but pack layers and umbrella
+
+### Best For Your Group
+**Food & Wine Lovers**: Robola vineyard tours, local cuisine
+**Beach Lovers**: Myrtos is spectacular without summer crowds
+**Relaxation Seekers**: Quieter, more authentic October atmosphere
+
+---
+
+## 20. Syros
+
+**Type**: Cycladic Island (Administrative Capital) | **Best For**: Unique architecture, food, year-round life
+
+### Why It's Ideal
+
+Syros is unlike any other Cycladic island—instead of whitewashed buildings, you'll find neoclassical Italian-inspired architecture, a grand town square, and a food scene featuring unique local specialties. As the Cyclades' administrative capital, it buzzes year-round.
+
+### Highlights
+
+- **Ermoupoli**: Greece's most impressive island capital—neoclassical mansions, grand Town Hall, opera house
+- **Unique Architecture**: Italian/German-designed buildings, pastel colors, nothing like typical Cycladic white
+- **Local Food**: San Michalis cheese (PDO), Louza ham, fennel sausage, loukoumia (Turkish delight)
+- **Catholic Heritage**: Half the population is Catholic (Venetian influence), two hilltop churches
+- **Year-Round Life**: Less seasonal tourism dependency, authentic everyday Greek island life
+
+### Considerations
+
+| Pros | Cons |
+|------|------|
+| Utterly unique Cycladic experience | Less "classic Greek island" look |
+| Active year-round (not seasonal) | Beaches less impressive than neighbors |
+| Exceptional local food products | Less known to tourists |
+| Great ferry connections (hub) | May feel more urban |
+
+### October Weather
+Pleasant autumn weather, perfect for exploring Ermoupoli on foot
+
+### Best For Your Group
+**Food Lovers**: Unique PDO cheese, local charcuterie
+**Architecture Enthusiasts**: Neoclassical town unlike anywhere else in Greece
+**Those Seeking Authenticity**: Real Greek island life, not tourist-dependent
+
+---
+
 ## Comparison Table
 
 | Location | Oct Temp | Accessibility | Fine Dining | Photography | History | Relaxation | Food Tours |
@@ -350,6 +742,16 @@ Excellent match for global preferences: good food, food tours, unique shopping, 
 | Hydra | 19-22°C | Poor | Fair | Very Good | Good | Excellent | Poor |
 | Paros | 20-23°C | Good | Fair | Very Good | Fair | Very Good | Fair |
 | Sifnos | 20-22°C | Good | Good | Good | Fair | Excellent | Good |
+| Thessaloniki | 20°C | Good | Excellent | Good | Excellent | Good | Excellent |
+| Mykonos | 23°C | Good | Very Good | Excellent | Fair | Good | Fair |
+| Meteora | 18°C | Mixed | Poor | Excellent | Very Good | Poor | Poor |
+| Corfu | 20-26°C | Good | Good | Good | Very Good | Good | Fair |
+| Delphi | 18°C | Mixed | Poor | Good | Excellent | Poor | Poor |
+| Monemvasia | 20°C | Poor | Fair | Excellent | Very Good | Good | Poor |
+| Aegina | 22°C | Good | Fair | Good | Good | Good | Good |
+| Zakynthos | 25°C | Mixed | Fair | Excellent | Fair | Good | Poor |
+| Kefalonia | 18-24°C | Good | Good | Very Good | Fair | Very Good | Good |
+| Syros | 21°C | Good | Good | Good | Good | Good | Good |
 
 ---
 
@@ -357,28 +759,29 @@ Excellent match for global preferences: good food, food tours, unique shopping, 
 
 ### For Andy & Kathy (70, 68 - Love Cruises)
 
-**Best Options**: Crete, Rhodes, Nafplio, cruise from Athens
+**Best Options**: Crete, Rhodes, Nafplio, Corfu, Kefalonia, cruise from Athens
 
 - **Cruise Option**: Consider a 3-4 day cruise from Athens hitting Mykonos, Santorini, Rhodes, Crete—see multiple islands without ferry logistics
-- **Land Options**: Crete (Chania/Rethymno) or Rhodes for best accessibility
-- **Avoid**: Santorini (steep), Hydra (all walking), Milos (beach access)
+- **Land Options**: Crete (Chania/Rethymno), Rhodes, Corfu, or Kefalonia for best accessibility
+- **Day Trips**: Delphi (museum is fully accessible), Aegina (easy ferry from Athens)
+- **Avoid**: Santorini (steep), Hydra (all walking), Milos (beach access), Monemvasia (challenging cobblestones), Meteora (except St. Stephen's monastery)
 
 ### For Ryan & Toni (37, 36 - Fine Dining, Photography)
 
-**Best Options**: Athens, Santorini, Milos
+**Best Options**: Athens, Thessaloniki, Santorini, Milos, Meteora, Mykonos, Monemvasia, Zakynthos
 
-- **Fine Dining**: Athens for Michelin stars, Santorini for emerging scene
-- **Photography**: Santorini (blue domes, sunsets), Milos (unique beaches), Mykonos (windmills, Little Venice)
-- **Food Experiences**: Athens food tours, Sifnos culinary heritage
+- **Fine Dining**: Athens (12 Michelin stars), Thessaloniki (newly added to 2026 Michelin Guide), Santorini for emerging scene
+- **Photography**: Santorini (blue domes, sunsets), Milos (unique beaches), Mykonos (windmills, Little Venice), Meteora (dramatic monasteries), Monemvasia (medieval fortress), Zakynthos (Navagio Beach)
+- **Food Experiences**: Athens food tours, Thessaloniki markets, Sifnos culinary heritage, Syros local products
 
 ### For Everyone Together (Initial Days)
 
-**Best Options**: Athens + Nafplio day trip, or Athens + short cruise
+**Best Options**: Athens + day trips, or Athens + short cruise
 
 - Start in Athens for food tours, Acropolis, museums
-- Day trip to Nafplio/Mycenae for history
+- Day trip options: Nafplio/Mycenae (history), Delphi (ancient site + accessible museum), Aegina (temples + pistachios)
 - Consider 3-day cruise to sample islands together
-- End together in Athens or Crete
+- End together in Athens, Crete, or Thessaloniki
 
 ---
 
@@ -406,11 +809,17 @@ Based on these findings, consider researching:
 5. **Santorini** - Whether to include or skip given accessibility concerns
 6. **Ferry schedules** - October 2026 ferry options between islands
 7. **Fine dining reservations** - Athens Michelin restaurants booking timelines
+8. **Thessaloniki** - Food tour options, Byzantine site accessibility, getting there from Athens
+9. **Meteora** - Guided tour options with transport between monasteries
+10. **Ionian Islands comparison** - Corfu vs. Kefalonia vs. Zakynthos for the group
+11. **Mykonos in October** - Which restaurants/hotels remain open late October
+12. **Day trip logistics** - Delphi vs. Aegina for accessible day trips from Athens
 
 ---
 
 ## Sources
 
+### Original Sources (Locations 1-10)
 - [Rough Guides - Greece in October](https://www.roughguides.com/greece/when-to-go/october/)
 - [Lonely Planet - Best Greek Islands](https://www.lonelyplanet.com/articles/best-greek-islands)
 - [Designer Journeys - Greece in October](https://www.designerjourneys.com/blog/greece-in-october/)
@@ -429,3 +838,37 @@ Based on these findings, consider researching:
 - [Verina Hotel Sifnos - October Guide](https://verinahotelsifnos.com/best-greek-islands-to-visit-in-october/)
 - [Silversea Cruises - Athens Itinerary](https://www.silversea.com/destinations/mediterranean-cruise/athens-piraeus-to-athens-piraeus-sm251008009.html)
 - [Celestyal Cruises](https://www.greek-cruises.com/cheap-mediterranean-cruise/iconic-aegean-4-day.htm)
+
+### Additional Sources (Locations 11-20)
+- [Greeka - Thessaloniki Travel Guide](https://www.greeka.com/macedonia/thessaloniki/)
+- [Fodor's - Best Things to Do in Thessaloniki](https://www.fodors.com/world/europe/greece/thessaloniki-and-central-macedonia/experiences/news/photos/best-things-to-do-in-thessaloniki)
+- [Discover Greece - 11 Things to Do in Thessaloniki](https://www.discovergreece.com/travel-ideas/best-of/11-things-do-thessaloniki)
+- [Go Ask A Local - Thessaloniki Travel Guide](https://goaskalocal.com/blog/thessaloniki-travel-guide)
+- [Travel And Tour World - 2026 MICHELIN Guide Greece](https://www.travelandtourworld.com/news/article/greece-now-grows-its-culinary-recognition-with-athens-thessaloniki-and-santorini-in-the-2026-michelin-guide/)
+- [Magnificent Travel - Mykonos October Weather](https://www.magnificenttravel.com/en/blog/greece/mykonos-weather-in-october/)
+- [Santorini Dave - Best Time to Visit Mykonos](https://santorinidave.com/best-time-to-visit-mykonos)
+- [The Blonde Abroad - Ultimate Mykonos Travel Guide](https://www.theblondeabroad.com/ultimate-mykonos-travel-guide/)
+- [Visit Meteora - Monasteries Opening Hours](https://meteora.com/meteora-monasteries-opening-hours/)
+- [Visit Meteora - The 6 Meteora Monasteries](https://visitmeteora.travel/meteora-monasteries/)
+- [Greece Travel Secrets - Visit Meteora](https://www.greecetravelsecrets.com/visit-meteora/)
+- [Discover Greece - Corfu](https://www.discovergreece.com/ionian-islands/corfu)
+- [Rough Guides - Corfu Weather October](https://www.roughguides.com/articles/corfu-weather-october-travel-tips/)
+- [Britannica - Corfu History](https://www.britannica.com/place/Corfu)
+- [Delphi Tours - Athens to Delphi](https://www.delphi-tours.com/athens-to-delphi/)
+- [Context Travel - Delphi Day Trip](https://www.contexttravel.com/cities/athens/tours/delphi-day-trip-from-athens)
+- [Wheel the World - Delphi Accessible Tour](https://wheeltheworld.com/accessible-things-to-do/greece/athens/delphi-full-day-guided-tour-from-athens)
+- [Greeka - Monemvasia Travel Guide](https://www.greeka.com/peloponnese/monemvasia/)
+- [Greek Reporter - Monemvasia Castle Town](https://greekreporter.com/2025/08/20/monemvasia-greece-castle-town/)
+- [Magnificent World - Monemvasia Mini Guide](https://www.magnificentworld.com/monemvasia-greece/)
+- [Take Me To Europe - Aegina Island Guide](https://takemetoeuropetours.com/blog/aegina-island-greece/)
+- [This Is Athens - Things to Do in Aegina](https://www.thisisathens.org/excursions-day-trips/things-to-do-aegina-greece)
+- [Greece Travel Secrets - Aegina Temples and Pistachios](https://www.greecetravelsecrets.com/explore-greek-islands/saronic-islands/aegina/)
+- [Zakynthos Online - October Weather Guide](https://zakynthosonline.com/zakynthos-in-october-weather-and-activities-guide)
+- [Tour Counsel - Zakynthos Island Guide](https://www.tourcounsel.com/2025/05/zakynthos-island-greece.html)
+- [Discover Greece - Kefalonia](https://www.discovergreece.com/ionian-islands/kefalonia)
+- [Thomas Cook - Kefalonia October Weather](https://www.thomascook.com/holidays/weather/greece/kefalonia/october/)
+- [Map and Family - Kefalonia Things to Do](https://mapandfamily.com/holidays-kefalonia-things-to-do/)
+- [Discover Greece - Walking Tour of Ermoupoli](https://www.discovergreece.com/experiences/walking-tour-colourful-ermoupoli-syros)
+- [National Geographic - Syros Food Guide](https://www.nationalgeographic.com/travel/article/what-to-eat-syros-greece)
+- [Lonely Planet - First-Time Guide to Syros](https://www.lonelyplanet.com/articles/first-time-guide-to-syros-cyclades)
+- [Discover Greece - Syros Travel Guide](https://www.discovergreece.com/cyclades/syros)
