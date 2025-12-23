@@ -17,3 +17,5 @@ parent: Travel Parties
 - Toni has an aversion to insects (pretty severe arachnaphobia)
 - Toni wants limited museums, but Ryan likes them
 - Toni has been to Greece before (Zakynthos, Delphi, Santorini, and Athens) - Zakynthos was her favorite because of the low-key/yogi vibes and pretty blue water, also the locals were really nice - she wouldn't mind going back to any of these spots especially since the others haven't been to Greece before, but she definitely would like to see something new, too
+- Ryan really wants to do an olive oil tasting to buy some really nice olive oil to bring home
+- Toni wants to do the olive oil tasting, too, and a wine tasting
