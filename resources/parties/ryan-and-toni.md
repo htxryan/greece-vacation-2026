@@ -6,10 +6,13 @@ parent: Travel Parties
 # Ryan and Toni
 
 - Ryan Henderson, 38
-- Antoinette ("Toni") Haag, 37
+- Toni Haag, 37
 
 ## Specific Preferences
 
 - Fine dining (Michelin star restaurants)
 - Unique dining (local favorites, holes in the wall)
 - Photography and unique photo opportunities
+- water (waterfalls, blue water where you can see straight to the bottom) - not necessarily getting in the water (unless you can see to the bottom)
+- Toni has an aversion to insects (pretty severe arachnaphobia)
+- Toni wants limited museums, but Ryan likes them
