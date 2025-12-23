@@ -1,7 +1,6 @@
 ---
 title: Global Preferences
 parent: Resources
-nav_order: 1
 ---
 
 # Global Preferences
