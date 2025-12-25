@@ -82,6 +82,14 @@ October is an ideal time to visit. The summer crowds have thinned, temperatures 
 - Significantly fewer tourists than summer months
 - Shorter daylight hours mean planning around opening/closing times
 
+## Photos
+
+![Temple of Hephaestus](photos/temple-hephaestus.jpg)
+*The Temple of Hephaestus, the best-preserved ancient Greek temple in the world, built in 449 BC*
+
+![Stoa of Attalos](photos/stoa-attalos.jpg)
+*The reconstructed Stoa of Attalos, a two-story colonnade now housing the Ancient Agora Museum*
+
 ## Logistics
 
 ### Hours of Operation
