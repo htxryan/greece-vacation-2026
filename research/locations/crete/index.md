@@ -67,29 +67,6 @@ October is an ideal time to visit Crete:
 **Day 4**: Drive to Heraklion area, visit Knossos Palace and Archaeological Museum
 **Day 5**: Balos Lagoon day trip (by boat from Kissamos) or relaxed morning before departure
 
-## Photos
-
-![Chania Venetian Harbor](photos/chania-venetian-harbor.jpg)
-*The historic Venetian Harbor of Chania, built in the 14th century, featuring colorful waterfront buildings and the iconic Egyptian Lighthouse*
-
-![Chania Lighthouse](photos/chania-lighthouse.jpg)
-*The Egyptian Lighthouse, originally built by Venetians in the late 16th century and rebuilt by Egyptians in 1864*
-
-![Palace of Knossos](photos/palace-of-knossos.jpg)
-*The partially reconstructed Palace of Knossos, the largest Bronze Age archaeological site on Crete and center of Minoan civilization*
-
-![Elafonisi pink sand beach](photos/elafonisi-pink-beach.jpg)
-*Elafonisi's famous pink sand beach, created by crushed red shells of microscopic foraminifera*
-
-![Balos Lagoon](photos/balos-lagoon.jpg)
-*The stunning Balos Lagoon with its shallow turquoise waters, protected under the Natura 2000 program*
-
-![Rethymno Old Town](photos/rethymno-old-town.jpg)
-*One of the best-preserved old towns in Crete, Rethymno features 16th-century Venetian architecture and narrow streets*
-
-![Cretan cuisine](photos/cretan-cuisine.jpg)
-*Traditional Cretan meze featuring local specialties—representing one of the healthiest diets in the world*
-
 ## Logistics
 
 ### Getting There from Athens

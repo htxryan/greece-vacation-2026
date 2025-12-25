@@ -71,23 +71,7 @@ A rental car is recommended if you want to explore villages and remote beaches. 
 
 ## Photos
 
-![The Portara at sunset](photos/naxos-portara-sunset.jpg)
-*The iconic Portara (Temple of Apollo gateway) frames the Aegean sunset—Naxos' most photographed landmark*
-
-![Naxos Town and Kastro](photos/naxos-chora-kastro.jpg)
-*The medieval Kastro of Naxos, built in 1207 by Venetian Marco Sanudo on the ancient acropolis*
-
-![Plaka Beach](photos/naxos-plaka-beach.jpg)
-*Plaka Beach extends for 4 kilometers along Naxos' western coast, featuring pristine white sand and crystal-clear turquoise waters*
-
-![Halki village](photos/naxos-village-halki.jpg)
-*Halki village, the former capital of Naxos, sits in the heart of the Tragea olive grove*
-
-![Naxos Old Town streets](photos/naxos-old-town-streets.jpg)
-*The narrow, winding alleys of Bourgos district create a labyrinth beneath the Kastro*
-
-![Naxian local cuisine](photos/naxos-local-cuisine.jpg)
-*Naxos is renowned for its gastronomic traditions, including Graviera Naxou cheese, famous Naxian potatoes, and Kitron liqueur*
+*Photos to be added*
 
 ## Logistics
 
