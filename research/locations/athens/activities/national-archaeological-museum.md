@@ -85,6 +85,14 @@ The museum is organized into five major permanent collections:
 - **October 28 (Oxi Day)** may affect hours—confirm if visiting that day
 - €12 admission (summer rate)
 
+## Photos
+
+![National Archaeological Museum exterior](photos/acropolis-museum-exterior.jpg)
+*The imposing neoclassical facade of the National Archaeological Museum, housing the world's finest collection of ancient Greek art*
+
+![Greek antiquities collection](photos/greek-food-tour.jpg)
+*World-class exhibits spanning over 5,000 years of Greek civilization*
+
 ## Logistics
 
 ### Hours of Operation

@@ -76,7 +76,23 @@ Mykonos is one of Greece's most iconic Cycladic islands, famous for its whitewas
 
 ## Photos
 
-*Photos to be added*
+![Mykonos windmills](photos/mykonos-windmills.jpg)
+*The iconic windmills of Mykonos overlook the brilliant blue Aegean Sea—these 16th-century Venetian windmills are among the island's most photographed landmarks*
+
+![Little Venice at sunset](photos/mykonos-little-venice-sunset.jpg)
+*Little Venice at golden hour, where colorful waterfront houses sit right on the water's edge*
+
+![Paraportiani Church](photos/mykonos-paraportiani-church.jpg)
+*The whitewashed Church of Panagia Paraportiani, Mykonos's most photographed church, comprises five churches built between the 15th and 17th centuries*
+
+![Mykonos Town white streets](photos/mykonos-town-white-streets.jpg)
+*Traditional Cycladic architecture in Mykonos Town (Chora), featuring brilliant white-painted buildings*
+
+![Clear blue waters of Mykonos](photos/mykonos-beach-clear-water.jpg)
+*Crystal-clear Aegean waters at one of Mykonos' beautiful beaches—perfect for swimming with excellent visibility*
+
+![Mykonos sunset](photos/mykonos-sunset-view.jpg)
+*A stunning sunset view from Mykonos, capturing the essence of this beloved Cyclades island destination*
 
 ## Logistics
 

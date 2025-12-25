@@ -78,10 +78,23 @@ October is excellent for Sifnos:
 
 ## Photos
 
-Photo resources for Sifnos:
-- [Greeka - Sifnos Photo Gallery](https://www.greeka.com/cyclades/sifnos/photos/)
-- [Church of Seven Martyrs Photos](https://www.greeka.com/cyclades/sifnos/sightseeing/church-seven-martyrs/)
-- [TripAdvisor - Sifnos Photos](https://www.tripadvisor.com/Tourism-g189434-Sifnos_Cyclades_South_Aegean-Vacations.html)
+![Church of Seven Martyrs](photos/sifnos-seven-martyrs-church.jpg)
+*The iconic Church of Seven Martyrs perched on a rocky peninsula near Kastro village, one of the most photographed locations in all of Sifnos*
+
+![Kastro village](photos/sifnos-kastro-village.jpg)
+*Kastro, the ancient capital of Sifnos from antiquity until 1836, built atop a high cliff on the island's east shore*
+
+![Apollonia town](photos/sifnos-apollonia-town.jpg)
+*Apollonia, the current capital of Sifnos since 1836, built on three hills with traditional Cycladic white-washed architecture*
+
+![Vathi bay and beach](photos/sifnos-vathi-bay.jpg)
+*The horseshoe-shaped Vathi Bay with its golden sand beach stretching over 1 kilometer, sheltered by high cliffs*
+
+![Chrissopigi Monastery](photos/sifnos-chrissopigi-monastery.jpg)
+*The white-washed Chrissopigi Monastery (built in 1650) sits on a small rocky islet connected to Sifnos by a narrow bridge*
+
+![Sifnos sunset](photos/sifnos-sunset-aegean.jpg)
+*Golden hour sunset over the Aegean Sea from Sifnos, with views of whitewashed churches silhouetted against the colorful sky*
 
 ## Logistics
 
