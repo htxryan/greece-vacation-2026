@@ -106,14 +106,6 @@ This activity is **perfect for the entire group**, but especially appealing to s
 - **Hydra Challenge**: Hydra's cobblestone streets and steps may be challenging for those with mobility issues. The flat waterfront area is accessible.
 - **Elderly-Friendly**: Ample seating on board; waterfront areas on each island are generally flat
 
-## Photos
-
-![Hydra harbor from the cruise](photos/hydra-harbor-cruise.jpg)
-*Hydra's picturesque crescent-shaped harbor as seen from the approaching day cruise ship*
-
-![Saronic Gulf sunset](photos/cruise-sunset.jpg)
-*Sunset over the Saronic Gulf during the return cruise journey with live Greek music*
-
 ## Logistics
 
 ### Departure Point

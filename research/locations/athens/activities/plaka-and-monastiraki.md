@@ -94,14 +94,6 @@ Monastiraki Square is a rooftop-lover's paradise. Top picks for Acropolis views:
 - October 28 is **Oxi Day** (national holiday)—expect parades and some closures
 - Shoulder season pricing on accommodations and flights
 
-## Photos
-
-![Plaka neighborhood streets](photos/plaka-streets.jpg)
-*Narrow cobblestone streets in Plaka, Athens' oldest and most charming neighborhood*
-
-![Rooftop bar with Acropolis view](photos/rooftop-bar-view.jpg)
-*Sunset cocktails at a Monastiraki rooftop bar with iconic views of the illuminated Acropolis*
-
 ## Logistics
 
 ### Hours

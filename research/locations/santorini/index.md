@@ -75,21 +75,6 @@ Santorini (also known as Thira) is one of Greece's most iconic islands, famous f
 ![Red Beach](photos/red-beach.jpg)
 *Santorini's famous Red Beach near Akrotiri*
 
-![Blue-domed church in Santorini](photos/santorini-blue-dome-church.jpg)
-*A typical blue church dome in Oia, showcasing Santorini's iconic Cycladic architecture*
-
-![Imerovigli village and caldera](photos/santorini-imerovigli-caldera.jpg)
-*Imerovigli, the "Balcony to the Aegean," perched on the highest point of the caldera cliffs*
-
-![Traditional cave house](photos/santorini-cave-house.jpg)
-*Traditional Santorini cave houses carved into volcanic rock, featuring characteristic white-washed walls and vaulted ceilings*
-
-![Sunset cruise in the caldera](photos/santorini-sunset-cruise.jpg)
-*A sailing cruise through Santorini's caldera at sunset offers views of the volcanic cliffs and blue-domed churches*
-
-![Black sand beach](photos/santorini-black-sand-beach.jpg)
-*Perissa Beach's distinctive black volcanic sand stretches along Santorini's southeastern coast, a dramatic reminder of the island's volcanic origins*
-
 ## Logistics
 
 ### Getting There from Athens

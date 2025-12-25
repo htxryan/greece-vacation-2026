@@ -69,14 +69,6 @@ October is considered optimal visiting season: fewer tourists than summer, pleas
 - Weather can be unpredictable in October, making the climate-controlled museum a great backup plan
 - Shoulder season means shorter lines and more space to appreciate exhibits
 
-## Photos
-
-![Acropolis Museum exterior](photos/acropolis-museum-exterior.jpg)
-*The striking contemporary glass architecture of the Acropolis Museum, designed by Bernard Tschumi*
-
-![Erechtheion Caryatids display](photos/erechtheion-caryatids.jpg)
-*Five original Caryatids from the Erechtheion displayed in the Acropolis Museum since 2009*
-
 ## Logistics
 
 ### Hours of Operation (October/Summer Season)

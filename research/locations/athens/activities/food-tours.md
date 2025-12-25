@@ -130,20 +130,6 @@ Tours meet in central Athens, easily accessible by:
 - **Metro**: Monastiraki or Omonia stations (Lines 1 & 3)
 - **Taxi**: Affordable from anywhere in central Athens
 
-## Photos
-
-![Greek food tour experience](photos/greek-food-tour.jpg)
-*Authentic Greek cuisine tasting featuring local cheeses, olives, and traditional dishes*
-
-![Varvakios Central Market](photos/varvakios-market.jpg)
-*Inside the bustling Varvakios Central Market on Athinas Street, operating since 1884*
-
-![Greek souvlaki and gyros](photos/souvlaki-gyros.jpg)
-*Traditional souvlaki—Greece's beloved street food dating back to ancient times*
-
-![Olive oil tasting](photos/olive-oil-tasting.jpg)
-*Premium Greek olive oil tasting, exploring regional varieties and flavor profiles*
-
 ## Related: Olive Oil & Wine Tastings
 
 For Ryan and Toni's specific interest in olive oil tasting, consider these specialized options:

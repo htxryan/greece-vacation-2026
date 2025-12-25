@@ -70,24 +70,6 @@ October is considered one of the best times to visit Athens. Daytime temperature
 ![The Parthenon atop the Acropolis](photos/acropolis-parthenon.jpg)
 *The Parthenon, crown jewel of the Acropolis, dates to the 5th century BC*
 
-![Traditional street in Plaka](photos/plaka-neighborhood-street.jpg)
-*Narrow cobblestone streets lined with neoclassical buildings and tavernas make Plaka Athens' most charming historic neighborhood*
-
-![Monastiraki Square with Acropolis view](photos/monastiraki-square-acropolis.jpg)
-*Bustling Monastiraki Square sits at the heart of Athens' vibrant flea market district, with the Acropolis watching over the scene*
-
-![Athens at night with illuminated Acropolis](photos/athens-night-acropolis.jpg)
-*The Acropolis glows beautifully each night, with modern LED lighting highlighting the Parthenon and other ancient structures*
-
-![Traditional Greek dining](photos/greek-food-taverna.jpg)
-*Authentic Greek tavernas serve classic dishes like moussaka, souvlaki, and Greek salad in atmospheric settings throughout Athens*
-
-![Anafiotika white houses](photos/anafiotika-white-houses.jpg)
-*Hidden beneath the Acropolis, Anafiotika's whitewashed houses and narrow lanes bring Cycladic island charm to the heart of Athens*
-
-![Ancient Agora and Temple of Hephaestus](photos/ancient-agora-temple.jpg)
-*The Ancient Agora was the heart of classical Athens, with the remarkably preserved Temple of Hephaestus overlooking the archaeological site*
-
 ## Logistics
 
 **Google Maps**: [Athens, Greece](https://www.google.com/maps/place/Athens,+Greece/)

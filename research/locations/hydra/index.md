@@ -81,23 +81,7 @@ October is excellent timing—warm enough for swimming (sea temperatures around 
 
 ## Photos
 
-![Hydra harbor panoramic view](photos/hydra-harbor-panoramic.jpg)
-*Aerial view of Hydra's crescent-shaped harbor, showing the amphitheater layout of whitewashed buildings rising from the Aegean Sea*
-
-![Hydra town architecture](photos/hydra-town-architecture.jpg)
-*Traditional stone-built houses with red-tiled roofs line Hydra's narrow whitewashed streets*
-
-![Donkeys on Hydra](photos/hydra-donkey-transport.jpg)
-*Donkeys serve as the primary means of transport on car-free Hydra island, carrying supplies through the narrow cobblestone streets*
-
-![Swimming rocks at Spilia](photos/hydra-swimming-rocks.jpg)
-*Swimmers dive from concrete platforms and rocks at Spilia, Hydra's iconic bathing spot just minutes from the harbor*
-
-![Hydra sunset over harbor](photos/hydra-sunset-harbor.jpg)
-*Golden hour at Hydra harbor, as the sun sets over the Aegean Sea illuminating the neoclassical architecture*
-
-![Waterfront cafes in Hydra](photos/hydra-waterfront-cafes.jpg)
-*Harborfront restaurants and cafes offer prime people-watching spots along Hydra's crescent-shaped port*
+*Photos to be added*
 
 ## Logistics
 

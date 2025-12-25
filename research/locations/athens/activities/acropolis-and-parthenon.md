@@ -93,17 +93,6 @@ October is arguably the **best month to visit**. Summer's brutal heat has passed
 4. **Visit the Acropolis Museum afterward** (same day works well; it's a 5-minute walk)
 5. **For sunset views without entering**: Areopagus Hill (free) or Philopappos Hill offer spectacular Acropolis views at golden hour
 
-## Photos
-
-![Parthenon at sunrise](photos/parthenon-sunrise.jpg)
-*The Parthenon's eastern facade in morning light, showcasing the temple dedicated to Athena built in the 5th century BC*
-
-![Erechtheion with Caryatids](photos/erechtheion-caryatids.jpg)
-*The Caryatid porch of the Erechtheion, with six maiden figures serving as architectural columns*
-
-![Acropolis panoramic view](photos/acropolis-panorama.jpg)
-*Panoramic view of the Acropolis from Areopagus Hill, with the Parthenon and surrounding ancient structures*
-
 ## Logistics
 
 ### Hours of Operation
